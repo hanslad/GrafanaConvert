@@ -1,0 +1,33 @@
+{
+    "refId": "A",
+    "useTemplate": false,
+    "templateVariable" :  "",
+    "nodePath": {
+      "node": {
+        "displayName": "Sine",
+        "browseName": {
+          "namespaceUrl": "http://prediktor.no/apis/semantics/AkershusEnergi",
+          "name": "Sine"
+        },
+        "nodeId": "{\"namespaceUrl\":\"http://prediktor.no/apis/semantics/AkershusEnergi\",\"id\":\"ns=2;s=V|Worker.Sine\"}",
+        "isForward": true,
+        "nodeClass": 2,
+        "typeId": "Numeric"
+      },
+      "browsePath": [
+        {
+          "namespaceUrl": "urn:prediktor:NOFREL078.prediktor.no:IGW",
+          "name": "IGW"
+        },
+        {
+          "namespaceUrl": "urn:prediktor:NOFREL078.prediktor.no:IGW",
+          "name": "Worker"
+        },
+        {
+          "namespaceUrl": "urn:prediktor:NOFREL078.prediktor.no:IGW",
+          "name": "Sine"
+        }
+      ]
+    },
+    "readType": "ReadDataRaw"
+  }
