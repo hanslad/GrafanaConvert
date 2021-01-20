@@ -2,8 +2,12 @@ import sqlite3
 from sqlite3 import Error
 import json
 import io
+import shutil 
 
 NS_URI = "http://prediktor.no/apis/semantics/AkershusEnergi"
+NS_HOST = "urn:prediktor:IGW:ApisHive"
+NS_TEST_HOST = "urn:prediktor:IGW:ApisHive"
+#NS_TEST_HOST = "urn:prediktor:IGW:ApisHive" 
 
 TA_VER = []
 
@@ -19,8 +23,9 @@ def create_connection(db_file):
 def convert(conn):
 
     cur = conn.cursor()
+    #cur.execute("SELECT id,data FROM dashboard where title = 'HPL3'")
+    #cur.execute("SELECT id,data FROM dashboard where title = 'Gen 7 Status'")
     cur.execute("SELECT id,data FROM dashboard")
-    #cur.execute("SELECT id,data FROM dashboard where title = 'HPL'")
     res = {}
     total = 0
     for row in cur:
@@ -95,9 +100,11 @@ def replace_targets(jpc,idx):
             with io.open("old_targets.json", 'w', encoding='utf8') as f:
                 f.write(json.dumps(pa["targets"], indent=2, sort_keys=True, ensure_ascii = False)) 
             with io.open("new_targets.json", 'w', encoding='utf8') as f:
-                f.write(json.dumps(new_trgts, indent=2, sort_keys=True, ensure_ascii = False))     
+                f.write(json.dumps(new_trgts, indent=2, sort_keys=True, ensure_ascii = False))
+            with io.open("pa_old.json", 'w', encoding='utf8') as f:
+                f.write(json.dumps(pa, indent=2, sort_keys=True, ensure_ascii = False))      
             pa["targets"] = new_trgts
-            with io.open("pa.json", 'w', encoding='utf8') as f:
+            with io.open("pa_new.json", 'w', encoding='utf8') as f:
                 f.write(json.dumps(pa, indent=2, sort_keys=True, ensure_ascii = False))           
         count = count + replace_targets(pa,idx+1)
     return count
@@ -130,22 +137,40 @@ def check_ver(t):
 def new_target(t):    
     with io.open("new_ds_temp.json", 'r', encoding='utf8') as f:
         nt = json.load(f)
-    if "name" not in t or t["name"] is None:
-        print(t)
+    if "name" in t and t["name"] is not None:
+        nt["alias"] = t["name"]
     if "refId" in t and t["refId"] is not None:
         nt["refId"] = t["refId"]
+        if t["refId"] == "DT":
+            print(t["refId"]) 
     else:
         del nt['refId']
-    if "aggregate" in t and t["aggregate"] is not None and t["aggregate"].lower() != "raw":
-        nt["aggregate"] = create_Aggr( t["aggregate"])
+    if "processingInterval" in t:
+        if t["processingInterval"] is None:
+            nt["resampleInterval"] = 60
+        else: 
+            nt["resampleInterval"] = t["processingInterval"] 
 
-
-    # else:
-    #     print('No aggreagate: {}'.format(t["name"]))
-
+    if "aggregate" in t:
+        if t["aggregate"] is None:
+            print("EMPTY AGGREGATE!")
+        if "processingInterval" not in t:
+            nt["resampleInterval"] = 60
+            print("No resample Interval in aggregate. Added 60 as default.!")
+        elif t["aggregate"].lower() != "raw":
+            nt["aggregate"] = create_Aggr( t["aggregate"])
+            nt["readType"] = "ReadDataProcessed"
+    else:
+        nt["aggregate"] = create_Aggr("interpolative")
+        nt["readType"] = "ReadDataProcessed"
+        nt["resampleInterval"] = 60
+        print('No aggreagate: {}, added interpolative as default'.format(t["name"]))
 
     #print(refId)
     #print(t["name"])
+    browseElements = t["path"].split("@#£$")
+    if len(browseElements) > 2:
+        browseElements = browseElements[2:]
 
     bname = t["browseName"].split("\\")[1]
     tar = t["target"]
@@ -154,19 +179,31 @@ def new_target(t):
         idx = tar["namespaceIndex"]
         ident = tar["identifier"]
 
-        with io.open("new_ds_temp.json", 'r', encoding='utf8') as f:
-            nt = json.load(f)
+        uri = check_uri(uri)
         nt["nodePath"]["node"]["nodeId"] = create_nodeid(uri,idx,ident)
         nt["nodePath"]["node"]["browseName"] = create_browseName(uri,bname)
         nt["nodePath"]["node"]["displayName"] = bname
+        nt["nodePath"]["browsePath"] = create_browsePath(uri,  browseElements)
         return nt
     else:
        print(tar)
 
 
+def check_uri(uri):
+    if uri == NS_HOST and NS_TEST_HOST:
+        return NS_TEST_HOST
+    return uri
+
+
 def create_nodeid(uri, idx, ident):
     kind = "i" if isinstance(ident, int) else "s"
     return '{{"namespaceUrl":"{uri}","id":"ns={idx};{kind}={ident}"}}'.format(kind= kind, uri = uri,idx = idx, ident= str(ident))  
+
+def create_browsePath(uri,  browseElements):
+    path = []
+    for el in browseElements:
+        path.append(create_browseName(uri, el))
+    return path
 
 def create_browseName(uri, name):
     bn = {}
@@ -185,6 +222,10 @@ def create_Aggr( name):
         aggr["nodeId"] = '{"namespaceUrl":"http://opcfoundation.org/UA/","id":"i=2342"}'
         aggr["name"] = "Average"
         return aggr
+    elif name.lower() == "timeaverage":
+        aggr["nodeId"] = '{"namespaceUrl":"http://opcfoundation.org/UA/","id":"i=2343"}'
+        aggr["name"] = "TimeAverage"
+        return aggr
     elif name.lower() == "total":
         aggr["nodeId"] = '{"namespaceUrl":"http://opcfoundation.org/UA/","id":"i=2344"}'
         aggr["name"] = "Total"
@@ -202,19 +243,22 @@ def create_Aggr( name):
         aggr["name"] = "End"
         return aggr
     else:
-         print("Shait")   
+         print("ERROR: Not implemented aggreagate: {}!".format(name))   
 
 def main():
-    sdatabase = r"..\\..\\files\\grafana.db" #source
-    rdatabase = r"..\\..\\files\\grafana2.db" #result
+    src = r"..\\..\\files\\in\\grafana.db" #source
+    dst = r"..\\..\\files\\grafana.db" #result
+    shutil.copyfile(src, dst)
+
+
 
     # create a database connection
-    sconn = create_connection(sdatabase)
-    rconn = create_connection(rdatabase)
-    with sconn, rconn:
+    sconn = create_connection(src)
+    dconn = create_connection(dst)
+    with sconn, dconn:
         print("Start")
         res = convert(sconn)
-        persist(rconn,res)
+        persist(dconn,res)
 
 
 
