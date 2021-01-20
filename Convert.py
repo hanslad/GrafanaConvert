@@ -154,12 +154,14 @@ def new_target(t):
     if "aggregate" in t:
         if t["aggregate"] is None:
             print("EMPTY AGGREGATE!")
-        if "processingInterval" not in t:
-            nt["resampleInterval"] = 60
-            print("No resample Interval in aggregate. Added 60 as default.!")
+
         elif t["aggregate"].lower() != "raw":
             nt["aggregate"] = create_Aggr( t["aggregate"])
             nt["readType"] = "ReadDataProcessed"
+            if "processingInterval" not in t:
+                nt["resampleInterval"] = 60
+                print("No resample Interval in aggregate: {}. Added 60 as default!".format(t["aggregate"]))
+        
     else:
         nt["aggregate"] = create_Aggr("interpolative")
         nt["readType"] = "ReadDataProcessed"

@@ -14,7 +14,8 @@
         "nodeClass": 2,
         "typeId": "Numeric"
       },
-      "browsePath": [ ]
+      "browsePath": [ ],
+      "resampleInterval": 60      
     },
     "readType": "ReadDataRaw"
   }
