@@ -1,0 +1,5602 @@
+[
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M01_15 MV VREG Overvann inngitt børverdi",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M01_15 MV VREG Overvann inngitt børverdi",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M01_15 MV VREG Overvann inngitt børverdi",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M01_15 MV VREG Overvann inngitt børverdi",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M01_15 MV VREG Overvann inngitt børverdi\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "A",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M01_03 MV VREG Overvann børverdi",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M01_03 MV VREG Overvann børverdi",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M01_03 MV VREG Overvann børverdi",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M01_03 MV VREG Overvann børverdi",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M01_03 MV VREG Overvann børverdi\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "B",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M02_06 MV OVANN Overvann",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M02_06 MV OVANN Overvann",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M02_06 MV OVANN Overvann",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M02_06 MV OVANN Overvann",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M02_06 MV OVANN Overvann\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "C",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M04_11 MV VREG Settpunk vannføring til fordeling",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M04_11 MV VREG Settpunk vannføring til fordeling",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M04_11 MV VREG Settpunk vannføring til fordeling",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M04_11 MV VREG Settpunk vannføring til fordeling",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M04_11 MV VREG Settpunk vannføring til fordeling\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "D",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M02_14 MV VREG Sum vannføring (momentan)",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M02_14 MV VREG Sum vannføring (momentan)",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M02_14 MV VREG Sum vannføring (momentan)",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M02_14 MV VREG Sum vannføring (momentan)",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M02_14 MV VREG Sum vannføring (momentan)\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "E",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M02_09 MV VREG Sum vannføring stasjon middel",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M02_09 MV VREG Sum vannføring stasjon middel",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M02_09 MV VREG Sum vannføring stasjon middel",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M02_09 MV VREG Sum vannføring stasjon middel",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M02_09 MV VREG Sum vannføring stasjon middel\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "F",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M04_12 MV VREG Estimert Tilsig",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M04_12 MV VREG Estimert Tilsig",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M04_12 MV VREG Estimert Tilsig",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M04_12 MV VREG Estimert Tilsig",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M04_12 MV VREG Estimert Tilsig\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "G",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M03_06 MV VREG Min slukeevne drift",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M03_06 MV VREG Min slukeevne drift",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M03_06 MV VREG Min slukeevne drift",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M03_06 MV VREG Min slukeevne drift",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M03_06 MV VREG Min slukeevne drift\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "H",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M03_07 MV VREG Max slukeevne drift",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M03_07 MV VREG Max slukeevne drift",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M03_07 MV VREG Max slukeevne drift",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M03_07 MV VREG Max slukeevne drift",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M03_07 MV VREG Max slukeevne drift\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "I",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M04_07 MV VREG Teoretisk Virk. Aggregat stopp",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M04_07 MV VREG Teoretisk Virk. Aggregat stopp",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M04_07 MV VREG Teoretisk Virk. Aggregat stopp",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M04_07 MV VREG Teoretisk Virk. Aggregat stopp",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M04_07 MV VREG Teoretisk Virk. Aggregat stopp\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "J",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M04_08 MV VREG Teoretisk Virk. Nåværende",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M04_08 MV VREG Teoretisk Virk. Nåværende",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M04_08 MV VREG Teoretisk Virk. Nåværende",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M04_08 MV VREG Teoretisk Virk. Nåværende",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M04_08 MV VREG Teoretisk Virk. Nåværende\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "K",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M04_09 MV VREG Teoretisk Virk. Aggregat start",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M04_09 MV VREG Teoretisk Virk. Aggregat start",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M04_09 MV VREG Teoretisk Virk. Aggregat start",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M04_09 MV VREG Teoretisk Virk. Aggregat start",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M04_09 MV VREG Teoretisk Virk. Aggregat start\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "L",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M04_10 MV VREG Virkningsgrad kraftverk",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M04_10 MV VREG Virkningsgrad kraftverk",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M04_10 MV VREG Virkningsgrad kraftverk",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M04_10 MV VREG Virkningsgrad kraftverk",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M04_10 MV VREG Virkningsgrad kraftverk\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "M",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M02_07 MV VREG Sum vannføring aggregater",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M02_07 MV VREG Sum vannføring aggregater",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M02_07 MV VREG Sum vannføring aggregater",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M02_07 MV VREG Sum vannføring aggregater",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M02_07 MV VREG Sum vannføring aggregater\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "N",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M02_08 MV VREG Sum vannføring luker",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M02_08 MV VREG Sum vannføring luker",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M02_08 MV VREG Sum vannføring luker",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M02_08 MV VREG Sum vannføring luker",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M02_08 MV VREG Sum vannføring luker\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "O",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M02_13 MV VREG Sum vannføring RI",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M02_13 MV VREG Sum vannføring RI",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M02_13 MV VREG Sum vannføring RI",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M02_13 MV VREG Sum vannføring RI",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M02_13 MV VREG Sum vannføring RI\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "P",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M02_10 MV TREG Fallhøyde",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M02_10 MV TREG Fallhøyde",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M02_10 MV TREG Fallhøyde",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M02_10 MV TREG Fallhøyde",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M02_10 MV TREG Fallhøyde\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "Q",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M02_11 MV UVANN Undervann",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M02_11 MV UVANN Undervann",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M02_11 MV UVANN Undervann",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M02_11 MV UVANN Undervann",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M02_11 MV UVANN Undervann\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "R",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M02_06 MV TUREG Settpunkt aktiv effekt",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_AGG7",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M02_06 MV TUREG Settpunkt aktiv effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M02_06 MV TUREG Settpunkt aktiv effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M02_06 MV TUREG Settpunkt aktiv effekt",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_AGG7.M02_06 MV TUREG Settpunkt aktiv effekt\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "S",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG7_M01_00 MV GEN Effekt",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG7_M01_00 MV GEN Effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG7_M01_00 MV GEN Effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG7_M01_00 MV GEN Effekt",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG7_M01_00 MV GEN Effekt\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "T",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M01_10 MV VREG Agg 7 vannføring",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M01_10 MV VREG Agg 7 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M01_10 MV VREG Agg 7 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M01_10 MV VREG Agg 7 vannføring",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M01_10 MV VREG Agg 7 vannføring\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "U",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M04_06 MV VREG Virkningsgrad Aggregat 7",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M04_06 MV VREG Virkningsgrad Aggregat 7",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M04_06 MV VREG Virkningsgrad Aggregat 7",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M04_06 MV VREG Virkningsgrad Aggregat 7",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M04_06 MV VREG Virkningsgrad Aggregat 7\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "V",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M02_12 MV TREG Falltap aggr.7",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M02_12 MV TREG Falltap aggr.7",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M02_12 MV TREG Falltap aggr.7",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M02_12 MV TREG Falltap aggr.7",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M02_12 MV TREG Falltap aggr.7\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "W",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M05_06 MV VREG Aggregat 7 Prioritet",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M05_06 MV VREG Aggregat 7 Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M05_06 MV VREG Aggregat 7 Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M05_06 MV VREG Aggregat 7 Prioritet",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M05_06 MV VREG Aggregat 7 Prioritet\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "X",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M02_00 MV TLUKE Lukestilling",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M02_00 MV TLUKE Lukestilling",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M02_00 MV TLUKE Lukestilling",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M02_00 MV TLUKE Lukestilling",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M02_00 MV TLUKE Lukestilling\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "Y",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M01_11 MV VREG Tømmerluke vannføring",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M01_11 MV VREG Tømmerluke vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M01_11 MV VREG Tømmerluke vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M01_11 MV VREG Tømmerluke vannføring",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M01_11 MV VREG Tømmerluke vannføring\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "Z",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M02_04 MV VREG Tømmerluke børverdi",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M02_04 MV VREG Tømmerluke børverdi",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M02_04 MV VREG Tømmerluke børverdi",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M02_04 MV VREG Tømmerluke børverdi",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M02_04 MV VREG Tømmerluke børverdi\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AA",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M05_07 MV VREG Tømmerluke Prioritet",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M05_07 MV VREG Tømmerluke Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M05_07 MV VREG Tømmerluke Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M05_07 MV VREG Tømmerluke Prioritet",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M05_07 MV VREG Tømmerluke Prioritet\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AB",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M02_01 MV VLUKE Lukestilling",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M02_01 MV VLUKE Lukestilling",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M02_01 MV VLUKE Lukestilling",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M02_01 MV VLUKE Lukestilling",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M02_01 MV VLUKE Lukestilling\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AC",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M01_12 MV VREG Valseluke vannføring",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M01_12 MV VREG Valseluke vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M01_12 MV VREG Valseluke vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M01_12 MV VREG Valseluke vannføring",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M01_12 MV VREG Valseluke vannføring\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AD",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M02_05 MV VREG Valseluke børverdi",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M02_05 MV VREG Valseluke børverdi",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M02_05 MV VREG Valseluke børverdi",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M02_05 MV VREG Valseluke børverdi",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M02_05 MV VREG Valseluke børverdi\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AE",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M05_08 MV VREG Valseluke Prioritet",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M05_08 MV VREG Valseluke Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M05_08 MV VREG Valseluke Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M05_08 MV VREG Valseluke Prioritet",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M05_08 MV VREG Valseluke Prioritet\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AF",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M02_03 MV SLUKE Lukestilling Vestre luke",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M02_03 MV SLUKE Lukestilling Vestre luke",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M02_03 MV SLUKE Lukestilling Vestre luke",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M02_03 MV SLUKE Lukestilling Vestre luke",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M02_03 MV SLUKE Lukestilling Vestre luke\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AG",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M01_13 MV VREG Sektorluke 1 vannføring",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M01_13 MV VREG Sektorluke 1 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M01_13 MV VREG Sektorluke 1 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M01_13 MV VREG Sektorluke 1 vannføring",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M01_13 MV VREG Sektorluke 1 vannføring\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AH",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M02_02 MV SLUKE Lukestilling Østre luke",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M02_02 MV SLUKE Lukestilling Østre luke",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M02_02 MV SLUKE Lukestilling Østre luke",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M02_02 MV SLUKE Lukestilling Østre luke",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M02_02 MV SLUKE Lukestilling Østre luke\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AI",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M01_14 MV VREG Sektorluke 2 vannføring",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M01_14 MV VREG Sektorluke 2 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M01_14 MV VREG Sektorluke 2 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M01_14 MV VREG Sektorluke 2 vannføring",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M01_14 MV VREG Sektorluke 2 vannføring\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AJ",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG1_M01_00 MV GEN Effekt",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG1_M01_00 MV GEN Effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG1_M01_00 MV GEN Effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG1_M01_00 MV GEN Effekt",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG1_M01_00 MV GEN Effekt\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AK",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG1_M01_14 MV TREG Setpkt. effekt",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG1_M01_14 MV TREG Setpkt. effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG1_M01_14 MV TREG Setpkt. effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG1_M01_14 MV TREG Setpkt. effekt",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG1_M01_14 MV TREG Setpkt. effekt\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AL",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M01_04 MV VREG Agg 1 vannføring",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M01_04 MV VREG Agg 1 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M01_04 MV VREG Agg 1 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M01_04 MV VREG Agg 1 vannføring",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M01_04 MV VREG Agg 1 vannføring\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AM",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M04_00 MV VREG Virkningsgrad Aggregat 1",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M04_00 MV VREG Virkningsgrad Aggregat 1",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M04_00 MV VREG Virkningsgrad Aggregat 1",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M04_00 MV VREG Virkningsgrad Aggregat 1",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M04_00 MV VREG Virkningsgrad Aggregat 1\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AN",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M03_00 MV TREG Falltap Aggr.1",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M03_00 MV TREG Falltap Aggr.1",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M03_00 MV TREG Falltap Aggr.1",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M03_00 MV TREG Falltap Aggr.1",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M03_00 MV TREG Falltap Aggr.1\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AO",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M05_00 MV VREG Aggregat 1 Prioritet",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M05_00 MV VREG Aggregat 1 Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M05_00 MV VREG Aggregat 1 Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M05_00 MV VREG Aggregat 1 Prioritet",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M05_00 MV VREG Aggregat 1 Prioritet\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AP",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG2_M01_14 MV TREG Setpkt. effekt",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG2_M01_14 MV TREG Setpkt. effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG2_M01_14 MV TREG Setpkt. effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG2_M01_14 MV TREG Setpkt. effekt",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG2_M01_14 MV TREG Setpkt. effekt\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AQ",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG2_M01_00 MV GEN Effekt",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG2_M01_00 MV GEN Effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG2_M01_00 MV GEN Effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG2_M01_00 MV GEN Effekt",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG2_M01_00 MV GEN Effekt\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AR",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M01_05 MV VREG Agg 2 vannføring",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M01_05 MV VREG Agg 2 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M01_05 MV VREG Agg 2 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M01_05 MV VREG Agg 2 vannføring",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M01_05 MV VREG Agg 2 vannføring\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AS",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M04_01 MV VREG Virkningsgrad Aggregat 2",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M04_01 MV VREG Virkningsgrad Aggregat 2",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M04_01 MV VREG Virkningsgrad Aggregat 2",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M04_01 MV VREG Virkningsgrad Aggregat 2",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M04_01 MV VREG Virkningsgrad Aggregat 2\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AT",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M03_01 MV TREG Falltap Aggr.2",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M03_01 MV TREG Falltap Aggr.2",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M03_01 MV TREG Falltap Aggr.2",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M03_01 MV TREG Falltap Aggr.2",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M03_01 MV TREG Falltap Aggr.2\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AU",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M05_01 MV VREG Aggregat 2 Prioritet",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M05_01 MV VREG Aggregat 2 Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M05_01 MV VREG Aggregat 2 Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M05_01 MV VREG Aggregat 2 Prioritet",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M05_01 MV VREG Aggregat 2 Prioritet\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AV",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG3_M01_14 MV TREG Setpkt. effekt",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG3_M01_14 MV TREG Setpkt. effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG3_M01_14 MV TREG Setpkt. effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG3_M01_14 MV TREG Setpkt. effekt",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG3_M01_14 MV TREG Setpkt. effekt\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AW",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG3_M01_00 MV GEN Effekt",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG3_M01_00 MV GEN Effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG3_M01_00 MV GEN Effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG3_M01_00 MV GEN Effekt",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG3_M01_00 MV GEN Effekt\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AX",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M01_06 MV VREG Agg 3 vannføring",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M01_06 MV VREG Agg 3 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M01_06 MV VREG Agg 3 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M01_06 MV VREG Agg 3 vannføring",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M01_06 MV VREG Agg 3 vannføring\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AY",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M04_02 MV VREG Virkningsgrad Aggregat 3",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M04_02 MV VREG Virkningsgrad Aggregat 3",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M04_02 MV VREG Virkningsgrad Aggregat 3",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M04_02 MV VREG Virkningsgrad Aggregat 3",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M04_02 MV VREG Virkningsgrad Aggregat 3\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "AZ",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M03_02 MV TREG Falltap Aggr.3",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M03_02 MV TREG Falltap Aggr.3",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M03_02 MV TREG Falltap Aggr.3",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M03_02 MV TREG Falltap Aggr.3",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M03_02 MV TREG Falltap Aggr.3\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BA",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M05_02 MV VREG Aggregat 3 Prioritet",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M05_02 MV VREG Aggregat 3 Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M05_02 MV VREG Aggregat 3 Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M05_02 MV VREG Aggregat 3 Prioritet",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M05_02 MV VREG Aggregat 3 Prioritet\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BB",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG4_M01_14 MV TREG Setpkt. effekt",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG4_M01_14 MV TREG Setpkt. effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG4_M01_14 MV TREG Setpkt. effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG4_M01_14 MV TREG Setpkt. effekt",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG4_M01_14 MV TREG Setpkt. effekt\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BC",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG4_M01_00 MV GEN Effekt",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG4_M01_00 MV GEN Effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG4_M01_00 MV GEN Effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG4_M01_00 MV GEN Effekt",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG4_M01_00 MV GEN Effekt\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BD",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M01_07 MV VREG Agg 4 vannføring",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M01_07 MV VREG Agg 4 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M01_07 MV VREG Agg 4 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M01_07 MV VREG Agg 4 vannføring",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M01_07 MV VREG Agg 4 vannføring\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BE",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M04_03 MV VREG Virkningsgrad Aggregat 4",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M04_03 MV VREG Virkningsgrad Aggregat 4",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M04_03 MV VREG Virkningsgrad Aggregat 4",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M04_03 MV VREG Virkningsgrad Aggregat 4",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M04_03 MV VREG Virkningsgrad Aggregat 4\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BF",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M03_03 MV TREG Falltap Aggr.4",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M03_03 MV TREG Falltap Aggr.4",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M03_03 MV TREG Falltap Aggr.4",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M03_03 MV TREG Falltap Aggr.4",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M03_03 MV TREG Falltap Aggr.4\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BG",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M05_03 MV VREG Aggregat 4 Prioritet",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M05_03 MV VREG Aggregat 4 Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M05_03 MV VREG Aggregat 4 Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M05_03 MV VREG Aggregat 4 Prioritet",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M05_03 MV VREG Aggregat 4 Prioritet\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BH",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG5_M01_14 MV TREG Setpkt. effekt",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG5_M01_14 MV TREG Setpkt. effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG5_M01_14 MV TREG Setpkt. effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG5_M01_14 MV TREG Setpkt. effekt",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG5_M01_14 MV TREG Setpkt. effekt\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BI",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG5_M01_00 MV GEN Effekt",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG5_M01_00 MV GEN Effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG5_M01_00 MV GEN Effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG5_M01_00 MV GEN Effekt",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG5_M01_00 MV GEN Effekt\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BJ",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M01_08 MV VREG Agg 5 vannføring",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M01_08 MV VREG Agg 5 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M01_08 MV VREG Agg 5 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M01_08 MV VREG Agg 5 vannføring",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M01_08 MV VREG Agg 5 vannføring\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BK",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M04_04 MV VREG Virkningsgrad Aggregat 5",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M04_04 MV VREG Virkningsgrad Aggregat 5",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M04_04 MV VREG Virkningsgrad Aggregat 5",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M04_04 MV VREG Virkningsgrad Aggregat 5",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M04_04 MV VREG Virkningsgrad Aggregat 5\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BL",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M03_04 MV TREG Falltap Aggr.5",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M03_04 MV TREG Falltap Aggr.5",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M03_04 MV TREG Falltap Aggr.5",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M03_04 MV TREG Falltap Aggr.5",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M03_04 MV TREG Falltap Aggr.5\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BM",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M05_04 MV VREG Aggregat 5 Prioritet",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M05_04 MV VREG Aggregat 5 Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M05_04 MV VREG Aggregat 5 Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M05_04 MV VREG Aggregat 5 Prioritet",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M05_04 MV VREG Aggregat 5 Prioritet\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BN",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG6_M01_14 MV TREG Setpkt. effekt",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG6_M01_14 MV TREG Setpkt. effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG6_M01_14 MV TREG Setpkt. effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG6_M01_14 MV TREG Setpkt. effekt",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG6_M01_14 MV TREG Setpkt. effekt\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BO",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG6_M01_00 MV GEN Effekt",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG6_M01_00 MV GEN Effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG6_M01_00 MV GEN Effekt",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG6_M01_00 MV GEN Effekt",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG6_M01_00 MV GEN Effekt\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BP",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M01_09 MV VREG Agg 6 vannføring",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M01_09 MV VREG Agg 6 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M01_09 MV VREG Agg 6 vannføring",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M01_09 MV VREG Agg 6 vannføring",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M01_09 MV VREG Agg 6 vannføring\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BQ",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M04_05 MV VREG Virkningsgrad Aggregat 6",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M04_05 MV VREG Virkningsgrad Aggregat 6",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M04_05 MV VREG Virkningsgrad Aggregat 6",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M04_05 MV VREG Virkningsgrad Aggregat 6",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M04_05 MV VREG Virkningsgrad Aggregat 6\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BR",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M03_05 MV TREG Falltap Aggr.6",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M03_05 MV TREG Falltap Aggr.6",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M03_05 MV TREG Falltap Aggr.6",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M03_05 MV TREG Falltap Aggr.6",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M03_05 MV TREG Falltap Aggr.6\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BS",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\M05_05 MV VREG Aggregat 6 Prioritet",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa2_STDM",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "M05_05 MV VREG Aggregat 6 Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "M05_05 MV VREG Aggregat 6 Prioritet",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "M05_05 MV VREG Aggregat 6 Prioritet",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa2_STDM.M05_05 MV VREG Aggregat 6 Prioritet\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BT",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D01_02 DM VREG Flomkompenseringskurve",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D01_02 DM VREG Flomkompenseringskurve",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D01_02 DM VREG Flomkompenseringskurve",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D01_02 DM VREG Flomkompenseringskurve",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D01_02 DM VREG Flomkompenseringskurve\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BU",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D01_04 DM VREG Høst -/flomkompenseringskurve",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D01_04 DM VREG Høst -/flomkompenseringskurve",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D01_04 DM VREG Høst -/flomkompenseringskurve",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D01_04 DM VREG Høst -/flomkompenseringskurve",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D01_04 DM VREG Høst -/flomkompenseringskurve\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BV",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D01_00 DM VREG Auto. start/stopp agg 1-6",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D01_00 DM VREG Auto. start/stopp agg 1-6",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D01_00 DM VREG Auto. start/stopp agg 1-6",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D01_00 DM VREG Auto. start/stopp agg 1-6",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D01_00 DM VREG Auto. start/stopp agg 1-6\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BW",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D05_00 DM VREG Start anbefalt aggregat",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D05_00 DM VREG Start anbefalt aggregat",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D05_00 DM VREG Start anbefalt aggregat",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D05_00 DM VREG Start anbefalt aggregat",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D05_00 DM VREG Start anbefalt aggregat\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BX",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D05_01 DM VREG Stopp anbefalt aggregat",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D05_01 DM VREG Stopp anbefalt aggregat",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D05_01 DM VREG Stopp anbefalt aggregat",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D05_01 DM VREG Stopp anbefalt aggregat",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D05_01 DM VREG Stopp anbefalt aggregat\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BY",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D04_00 DM VREG Agg1 vannstandsregulering",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D04_00 DM VREG Agg1 vannstandsregulering",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D04_00 DM VREG Agg1 vannstandsregulering",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D04_00 DM VREG Agg1 vannstandsregulering",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D04_00 DM VREG Agg1 vannstandsregulering\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "BZ",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D04_02 DM VREG Agg2 vannstandsregulering",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D04_02 DM VREG Agg2 vannstandsregulering",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D04_02 DM VREG Agg2 vannstandsregulering",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D04_02 DM VREG Agg2 vannstandsregulering",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D04_02 DM VREG Agg2 vannstandsregulering\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CA",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D04_04 DM VREG Agg3 vannstandsregulering",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D04_04 DM VREG Agg3 vannstandsregulering",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D04_04 DM VREG Agg3 vannstandsregulering",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D04_04 DM VREG Agg3 vannstandsregulering",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D04_04 DM VREG Agg3 vannstandsregulering\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CB",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D04_06 DM VREG Agg4 vannstandsregulering",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D04_06 DM VREG Agg4 vannstandsregulering",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D04_06 DM VREG Agg4 vannstandsregulering",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D04_06 DM VREG Agg4 vannstandsregulering",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D04_06 DM VREG Agg4 vannstandsregulering\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CC",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D04_08 DM VREG Agg5 vannstandsregulering",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D04_08 DM VREG Agg5 vannstandsregulering",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D04_08 DM VREG Agg5 vannstandsregulering",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D04_08 DM VREG Agg5 vannstandsregulering",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D04_08 DM VREG Agg5 vannstandsregulering\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CD",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D04_10 DM VREG Agg6 vannstandsregulering",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D04_10 DM VREG Agg6 vannstandsregulering",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D04_10 DM VREG Agg6 vannstandsregulering",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D04_10 DM VREG Agg6 vannstandsregulering",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D04_10 DM VREG Agg6 vannstandsregulering\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CE",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D03_14 DM VREG Vannstandsregulering",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D03_14 DM VREG Vannstandsregulering",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D03_14 DM VREG Vannstandsregulering",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D03_14 DM VREG Vannstandsregulering",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D03_14 DM VREG Vannstandsregulering\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CF",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D02_00 DM VREG Tømmerluke vannst.reg",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D02_00 DM VREG Tømmerluke vannst.reg",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D02_00 DM VREG Tømmerluke vannst.reg",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D02_00 DM VREG Tømmerluke vannst.reg",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D02_00 DM VREG Tømmerluke vannst.reg\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CG",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D01_14 DM VREG Valseluke vannst.reg.",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D01_14 DM VREG Valseluke vannst.reg.",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D01_14 DM VREG Valseluke vannst.reg.",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D01_14 DM VREG Valseluke vannst.reg.",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D01_14 DM VREG Valseluke vannst.reg.\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CH",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D05_02 DM VREG Anbefalt drift Agg1",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D05_02 DM VREG Anbefalt drift Agg1",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D05_02 DM VREG Anbefalt drift Agg1",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D05_02 DM VREG Anbefalt drift Agg1",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D05_02 DM VREG Anbefalt drift Agg1\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CI",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D05_03 DM VREG Anbefalt drift Agg2",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D05_03 DM VREG Anbefalt drift Agg2",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D05_03 DM VREG Anbefalt drift Agg2",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D05_03 DM VREG Anbefalt drift Agg2",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D05_03 DM VREG Anbefalt drift Agg2\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CJ",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D05_04 DM VREG Anbefalt drift Agg3",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D05_04 DM VREG Anbefalt drift Agg3",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D05_04 DM VREG Anbefalt drift Agg3",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D05_04 DM VREG Anbefalt drift Agg3",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D05_04 DM VREG Anbefalt drift Agg3\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CK",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D05_05 DM VREG Anbefalt drift Agg4",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D05_05 DM VREG Anbefalt drift Agg4",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D05_05 DM VREG Anbefalt drift Agg4",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D05_05 DM VREG Anbefalt drift Agg4",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D05_05 DM VREG Anbefalt drift Agg4\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CL",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D05_06 DM VREG Anbefalt drift Agg5",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D05_06 DM VREG Anbefalt drift Agg5",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D05_06 DM VREG Anbefalt drift Agg5",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D05_06 DM VREG Anbefalt drift Agg5",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D05_06 DM VREG Anbefalt drift Agg5\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CM",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D05_07 DM VREG Anbefalt drift Agg6",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D05_07 DM VREG Anbefalt drift Agg6",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D05_07 DM VREG Anbefalt drift Agg6",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D05_07 DM VREG Anbefalt drift Agg6",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D05_07 DM VREG Anbefalt drift Agg6\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CN",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D05_10 DM VREG Anbefalt drift Agg7",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D05_10 DM VREG Anbefalt drift Agg7",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D05_10 DM VREG Anbefalt drift Agg7",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D05_10 DM VREG Anbefalt drift Agg7",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D05_10 DM VREG Anbefalt drift Agg7\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CO",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D02_08 DM AGG1 Revisjonsvender",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D02_08 DM AGG1 Revisjonsvender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D02_08 DM AGG1 Revisjonsvender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D02_08 DM AGG1 Revisjonsvender",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D02_08 DM AGG1 Revisjonsvender\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CP",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D02_10 DM AGG2 Revisjonsvender",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D02_10 DM AGG2 Revisjonsvender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D02_10 DM AGG2 Revisjonsvender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D02_10 DM AGG2 Revisjonsvender",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D02_10 DM AGG2 Revisjonsvender\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CQ",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D02_12 DM AGG3 Revisjonsvender",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D02_12 DM AGG3 Revisjonsvender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D02_12 DM AGG3 Revisjonsvender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D02_12 DM AGG3 Revisjonsvender",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D02_12 DM AGG3 Revisjonsvender\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CR",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D02_14 DM AGG4 Revisjonsvender",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D02_14 DM AGG4 Revisjonsvender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D02_14 DM AGG4 Revisjonsvender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D02_14 DM AGG4 Revisjonsvender",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D02_14 DM AGG4 Revisjonsvender\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CS",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D03_12 DM AGG5 Revisjonsvender",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D03_12 DM AGG5 Revisjonsvender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D03_12 DM AGG5 Revisjonsvender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D03_12 DM AGG5 Revisjonsvender",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D03_12 DM AGG5 Revisjonsvender\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CT",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D04_12 DM AGG6 Revisjonsvender",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D04_12 DM AGG6 Revisjonsvender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D04_12 DM AGG6 Revisjonsvender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D04_12 DM AGG6 Revisjonsvender",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D04_12 DM AGG6 Revisjonsvender\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CU",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D04_14 DM AGG7 Revisjonsvender",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D04_14 DM AGG7 Revisjonsvender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D04_14 DM AGG7 Revisjonsvender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D04_14 DM AGG7 Revisjonsvender",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D04_14 DM AGG7 Revisjonsvender\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CV",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D01_12 DM VREG Tømmerluke revisjon",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D01_12 DM VREG Tømmerluke revisjon",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D01_12 DM VREG Tømmerluke revisjon",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D01_12 DM VREG Tømmerluke revisjon",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D01_12 DM VREG Tømmerluke revisjon\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CW",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D01_06 DM VREG Valseluke revisjon",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D01_06 DM VREG Valseluke revisjon",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D01_06 DM VREG Valseluke revisjon",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D01_06 DM VREG Valseluke revisjon",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D01_06 DM VREG Valseluke revisjon\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CX",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D01_08 DM VREG Sektorluke vest revisjon",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D01_08 DM VREG Sektorluke vest revisjon",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D01_08 DM VREG Sektorluke vest revisjon",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D01_08 DM VREG Sektorluke vest revisjon",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D01_08 DM VREG Sektorluke vest revisjon\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CY",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D01_10 DM VREG Sektorluke øst revisjon",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D01_10 DM VREG Sektorluke øst revisjon",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D01_10 DM VREG Sektorluke øst revisjon",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D01_10 DM VREG Sektorluke øst revisjon",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D01_10 DM VREG Sektorluke øst revisjon\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "CZ",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D02_04 DM TLUKE Fjernstyrings vender",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D02_04 DM TLUKE Fjernstyrings vender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D02_04 DM TLUKE Fjernstyrings vender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D02_04 DM TLUKE Fjernstyrings vender",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D02_04 DM TLUKE Fjernstyrings vender\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DA",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D02_06 DM VLUKE Fjernstyrings vender",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D02_06 DM VLUKE Fjernstyrings vender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D02_06 DM VLUKE Fjernstyrings vender",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D02_06 DM VLUKE Fjernstyrings vender",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D02_06 DM VLUKE Fjernstyrings vender\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DB",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D05_13 DM VLUKE Valseluke",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D05_13 DM VLUKE Valseluke",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D05_13 DM VLUKE Valseluke",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D05_13 DM VLUKE Valseluke",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D05_13 DM VLUKE Valseluke\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DC",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D05_12 DM VLUKE Valseluke",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D05_12 DM VLUKE Valseluke",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D05_12 DM VLUKE Valseluke",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D05_12 DM VLUKE Valseluke",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D05_12 DM VLUKE Valseluke\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DD",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D09_00 DM SLUKE Vestre lukelem 1",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D09_00 DM SLUKE Vestre lukelem 1",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D09_00 DM SLUKE Vestre lukelem 1",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D09_00 DM SLUKE Vestre lukelem 1",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D09_00 DM SLUKE Vestre lukelem 1\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DE",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D09_02 DM SLUKE Vestre lukelem 2",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D09_02 DM SLUKE Vestre lukelem 2",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D09_02 DM SLUKE Vestre lukelem 2",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D09_02 DM SLUKE Vestre lukelem 2",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D09_02 DM SLUKE Vestre lukelem 2\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DF",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D09_04 DM SLUKE Vestre lukelem 3",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D09_04 DM SLUKE Vestre lukelem 3",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D09_04 DM SLUKE Vestre lukelem 3",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D09_04 DM SLUKE Vestre lukelem 3",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D09_04 DM SLUKE Vestre lukelem 3\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DG",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D09_06 DM SLUKE Vestre lukelem 4",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D09_06 DM SLUKE Vestre lukelem 4",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D09_06 DM SLUKE Vestre lukelem 4",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D09_06 DM SLUKE Vestre lukelem 4",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D09_06 DM SLUKE Vestre lukelem 4\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DH",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D09_08 DM SLUKE Vestre lukelem 5",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D09_08 DM SLUKE Vestre lukelem 5",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D09_08 DM SLUKE Vestre lukelem 5",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D09_08 DM SLUKE Vestre lukelem 5",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D09_08 DM SLUKE Vestre lukelem 5\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DI",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D09_10 DM SLUKE Vestre lukelem 6",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D09_10 DM SLUKE Vestre lukelem 6",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D09_10 DM SLUKE Vestre lukelem 6",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D09_10 DM SLUKE Vestre lukelem 6",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D09_10 DM SLUKE Vestre lukelem 6\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DJ",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D09_12 DM SLUKE Vestre lukelem 7",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D09_12 DM SLUKE Vestre lukelem 7",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D09_12 DM SLUKE Vestre lukelem 7",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D09_12 DM SLUKE Vestre lukelem 7",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D09_12 DM SLUKE Vestre lukelem 7\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DK",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D09_14 DM SLUKE Vestre lukelem 8",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D09_14 DM SLUKE Vestre lukelem 8",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D09_14 DM SLUKE Vestre lukelem 8",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D09_14 DM SLUKE Vestre lukelem 8",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D09_14 DM SLUKE Vestre lukelem 8\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DL",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D10_00 DM SLUKE Vestre lukelem 9",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D10_00 DM SLUKE Vestre lukelem 9",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D10_00 DM SLUKE Vestre lukelem 9",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D10_00 DM SLUKE Vestre lukelem 9",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D10_00 DM SLUKE Vestre lukelem 9\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DM",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D10_02 DM SLUKE Vestre lukelem 10",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D10_02 DM SLUKE Vestre lukelem 10",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D10_02 DM SLUKE Vestre lukelem 10",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D10_02 DM SLUKE Vestre lukelem 10",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D10_02 DM SLUKE Vestre lukelem 10\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DN",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D07_00 DM SLUKE Østre lukelem 1",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D07_00 DM SLUKE Østre lukelem 1",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D07_00 DM SLUKE Østre lukelem 1",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D07_00 DM SLUKE Østre lukelem 1",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D07_00 DM SLUKE Østre lukelem 1\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DO",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D07_02 DM SLUKE Østre lukelem 2",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D07_02 DM SLUKE Østre lukelem 2",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D07_02 DM SLUKE Østre lukelem 2",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D07_02 DM SLUKE Østre lukelem 2",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D07_02 DM SLUKE Østre lukelem 2\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DP",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D07_04 DM SLUKE Østre lukelem 3",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D07_04 DM SLUKE Østre lukelem 3",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D07_04 DM SLUKE Østre lukelem 3",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D07_04 DM SLUKE Østre lukelem 3",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D07_04 DM SLUKE Østre lukelem 3\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DQ",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D07_06 DM SLUKE Østre lukelem 4",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D07_06 DM SLUKE Østre lukelem 4",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D07_06 DM SLUKE Østre lukelem 4",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D07_06 DM SLUKE Østre lukelem 4",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D07_06 DM SLUKE Østre lukelem 4\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DR",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D07_08 DM SLUKE Østre lukelem 5",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D07_08 DM SLUKE Østre lukelem 5",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D07_08 DM SLUKE Østre lukelem 5",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D07_08 DM SLUKE Østre lukelem 5",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D07_08 DM SLUKE Østre lukelem 5\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DS",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D07_10 DM SLUKE Østre lukelem 6",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D07_10 DM SLUKE Østre lukelem 6",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D07_10 DM SLUKE Østre lukelem 6",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D07_10 DM SLUKE Østre lukelem 6",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D07_10 DM SLUKE Østre lukelem 6\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DT",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D07_12 DM SLUKE Østre lukelem 7",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D07_12 DM SLUKE Østre lukelem 7",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D07_12 DM SLUKE Østre lukelem 7",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D07_12 DM SLUKE Østre lukelem 7",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D07_12 DM SLUKE Østre lukelem 7\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DU",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D07_14 DM SLUKE Østre lukelem 8",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D07_14 DM SLUKE Østre lukelem 8",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D07_14 DM SLUKE Østre lukelem 8",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D07_14 DM SLUKE Østre lukelem 8",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D07_14 DM SLUKE Østre lukelem 8\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DV",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D08_00 DM SLUKE Østre lukelem 9",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D08_00 DM SLUKE Østre lukelem 9",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D08_00 DM SLUKE Østre lukelem 9",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D08_00 DM SLUKE Østre lukelem 9",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D08_00 DM SLUKE Østre lukelem 9\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DW",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\STDM_D08_02 DM SLUKE Østre lukelem 10",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "STDM_D08_02 DM SLUKE Østre lukelem 10",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "STDM_D08_02 DM SLUKE Østre lukelem 10",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "STDM_D08_02 DM SLUKE Østre lukelem 10",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.STDM_D08_02 DM SLUKE Østre lukelem 10\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DX",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG1_D04_08 DM VANNV Inntaksluke 1A",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG1_D04_08 DM VANNV Inntaksluke 1A",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG1_D04_08 DM VANNV Inntaksluke 1A",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG1_D04_08 DM VANNV Inntaksluke 1A",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG1_D04_08 DM VANNV Inntaksluke 1A\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DY",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG1_D04_10 DM VANNV Inntaksluke 1B",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG1_D04_10 DM VANNV Inntaksluke 1B",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG1_D04_10 DM VANNV Inntaksluke 1B",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG1_D04_10 DM VANNV Inntaksluke 1B",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG1_D04_10 DM VANNV Inntaksluke 1B\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "DZ",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG2_D04_08 DM VANNV Inntaksluke 2A",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG2_D04_08 DM VANNV Inntaksluke 2A",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG2_D04_08 DM VANNV Inntaksluke 2A",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG2_D04_08 DM VANNV Inntaksluke 2A",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG2_D04_08 DM VANNV Inntaksluke 2A\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "EA",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG2_D04_10 DM VANNV Inntaksluke 2B",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG2_D04_10 DM VANNV Inntaksluke 2B",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG2_D04_10 DM VANNV Inntaksluke 2B",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG2_D04_10 DM VANNV Inntaksluke 2B",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG2_D04_10 DM VANNV Inntaksluke 2B\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "EB",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG3_D04_08 DM VANNV Inntaksluke 3A",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG3_D04_08 DM VANNV Inntaksluke 3A",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG3_D04_08 DM VANNV Inntaksluke 3A",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG3_D04_08 DM VANNV Inntaksluke 3A",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG3_D04_08 DM VANNV Inntaksluke 3A\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "EC",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG3_D04_10 DM VANNV Inntaksluke 3B",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG3_D04_10 DM VANNV Inntaksluke 3B",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG3_D04_10 DM VANNV Inntaksluke 3B",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG3_D04_10 DM VANNV Inntaksluke 3B",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG3_D04_10 DM VANNV Inntaksluke 3B\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "ED",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG4_D04_08 DM VANNV Inntaksluke 4A",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG4_D04_08 DM VANNV Inntaksluke 4A",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG4_D04_08 DM VANNV Inntaksluke 4A",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG4_D04_08 DM VANNV Inntaksluke 4A",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG4_D04_08 DM VANNV Inntaksluke 4A\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "EE",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG4_D04_10 DM VANNV Inntaksluke 4B",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG4_D04_10 DM VANNV Inntaksluke 4B",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG4_D04_10 DM VANNV Inntaksluke 4B",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG4_D04_10 DM VANNV Inntaksluke 4B",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG4_D04_10 DM VANNV Inntaksluke 4B\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "EF",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG5_D04_08 DM VANNV Inntaksluke 5A",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG5_D04_08 DM VANNV Inntaksluke 5A",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG5_D04_08 DM VANNV Inntaksluke 5A",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG5_D04_08 DM VANNV Inntaksluke 5A",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG5_D04_08 DM VANNV Inntaksluke 5A\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "EG",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG5_D04_10 DM VANNV Inntaksluke 5B",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG5_D04_10 DM VANNV Inntaksluke 5B",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG5_D04_10 DM VANNV Inntaksluke 5B",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG5_D04_10 DM VANNV Inntaksluke 5B",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG5_D04_10 DM VANNV Inntaksluke 5B\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "EH",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG6_D04_08 DM VANNV Inntaksluke 6A",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG6_D04_08 DM VANNV Inntaksluke 6A",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG6_D04_08 DM VANNV Inntaksluke 6A",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG6_D04_08 DM VANNV Inntaksluke 6A",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG6_D04_08 DM VANNV Inntaksluke 6A\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "EI",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  },
+  {
+    "aggregate": {
+      "name": "End",
+      "nodeId": "{\"namespaceUrl\":\"http://opcfoundation.org/UA/\",\"id\":\"i=2358\"}"
+    },
+    "alias": "ApisHive\\AGG6_D04_10 DM VANNV Inntaksluke 6B",
+    "nodePath": {
+      "browsePath": [
+        {
+          "name": "ApisHive",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "Raa_Grafana_Items",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        {
+          "name": "AGG6_D04_10 DM VANNV Inntaksluke 6B",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        }
+      ],
+      "node": {
+        "browseName": {
+          "name": "AGG6_D04_10 DM VANNV Inntaksluke 6B",
+          "namespaceUrl": "urn:prediktor:IGW:ApisHive"
+        },
+        "displayName": "AGG6_D04_10 DM VANNV Inntaksluke 6B",
+        "isForward": true,
+        "nodeClass": 2,
+        "nodeId": "{\"namespaceUrl\":\"urn:prediktor:IGW:ApisHive\",\"id\":\"ns=2;s=V|Raa_Grafana_Items.AGG6_D04_10 DM VANNV Inntaksluke 6B\"}",
+        "typeId": "Numeric"
+      },
+      "resampleInterval": 60
+    },
+    "readType": "ReadDataProcessed",
+    "refId": "EJ",
+    "resampleInterval": 60,
+    "templateVariable": "",
+    "useTemplate": false
+  }
+]

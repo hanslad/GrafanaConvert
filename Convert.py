@@ -170,11 +170,9 @@ def new_target(t):
 
     #print(refId)
     #print(t["name"])
-    browseElements = t["path"].split("@#£$")
-    if len(browseElements) > 2:
-        browseElements = browseElements[2:]
 
-    bname = t["browseName"].split("\\")[1]
+
+    
     tar = t["target"]
     if "identifier" in tar:
         uri = tar["namespaceURI"]
@@ -183,9 +181,16 @@ def new_target(t):
 
         uri = check_uri(uri)
         nt["nodePath"]["node"]["nodeId"] = create_nodeid(uri,idx,ident)
-        nt["nodePath"]["node"]["browseName"] = create_browseName(uri,bname)
-        nt["nodePath"]["node"]["displayName"] = bname
-        nt["nodePath"]["browsePath"] = create_browsePath(uri,  browseElements)
+        if "browseName" in t:
+            bname = t["browseName"].split("\\")[1]
+            nt["nodePath"]["node"]["browseName"] = create_browseName(uri,bname)
+            nt["nodePath"]["node"]["displayName"] = bname
+
+        if "path" in t:
+            browseElements = t["path"].split("@#£$")
+            if len(browseElements) > 2:
+                browseElements = browseElements[2:]
+                nt["nodePath"]["browsePath"] = create_browsePath(uri,  browseElements)
         return nt
     else:
        print(tar)

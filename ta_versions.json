@@ -1,0 +1,370 @@
+[
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "name": "ApisHive\\M01_15 MV VREG Overvann inngitt børverdi",
+    "refId": "A",
+    "target": {
+      "identifier": 12544,
+      "namespaceIndex": 5,
+      "namespaceURI": "http://prediktor.no/apis/semantics/AkershusEnergi",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "raw",
+    "aggregateName": "Raw",
+    "browseName": "ApisHive\\M01_14 MV TUREG Fallhøyde",
+    "name": "Fallhøyde",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_AGG7@#£$M01_14 MV TUREG Fallhøyde",
+    "processingInterval": null,
+    "refId": "A",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_AGG7.M01_14 MV TUREG Fallhøyde",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "raw",
+    "aggregateName": "Raw",
+    "browseName": "Raa2 STDM\\M02_12 MV TREG Falltap aggr.7",
+    "name": "Falltap aggr.7",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$Akershus Energi@#£$Stasjoner@#£$Rånåsfoss@#£$Raa2 STDM@#£$MV@#£$M02_12 MV TREG Falltap aggr.7",
+    "refId": "B",
+    "target": {
+      "identifier": 12583,
+      "namespaceIndex": 5,
+      "namespaceURI": "http://prediktor.no/apis/semantics/AkershusEnergi",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "browseName": "ApisHive\\M01_14 MV TUREG Fallhøyde",
+    "name": "ApisHive\\M01_14 MV TUREG Fallhøyde",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_AGG7@#£$M01_14 MV TUREG Fallhøyde",
+    "refId": "A",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_AGG7.M01_14 MV TUREG Fallhøyde",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "raw",
+    "aggregateName": "Raw",
+    "browseName": "ApisHive\\M02_09 MV GEN Akselkast øvre styrelager",
+    "name": "ApisHive\\M02_09 MV GEN Akselkast øvre styrelager",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_AGG7@#£$M02_09 MV GEN Akselkast øvre styrelager",
+    "refId": "A",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_AGG7.M02_09 MV GEN Akselkast øvre styrelager",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "interpolative",
+    "aggregateName": "Interpolative",
+    "browseName": "Raa2 AGG7\\M01_00 MV GEN Effekt",
+    "name": "Raa2 AGG7\\M01_00 MV GEN Effekt",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$Akershus Energi@#£$Stasjoner@#£$Rånåsfoss@#£$Raa2 AGG7@#£$MV@#£$M01_00 MV GEN Effekt",
+    "processingInterval": 1,
+    "rawQuery": false,
+    "refId": "A",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": 8478,
+      "namespaceIndex": 5,
+      "namespaceURI": "http://prediktor.no/apis/semantics/AkershusEnergi",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "browseName": "ApisHive\\Signal_Delay-Raa2_AGG7_1",
+    "name": "ApisHive\\Signal_Delay-Raa2_AGG7_1",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Kalkulasjoner@#£$Signal_Delay-Raa2_AGG7_1",
+    "processingInterval": 1,
+    "refId": "A",
+    "target": {
+      "identifier": "V|Kalkulasjoner.Signal_Delay-Raa2_AGG7_1",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "browseName": "ApisHive\\Signal_Delay-Raa2_STDM",
+    "name": "Raa2_STDM",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Kalkulasjoner@#£$Signal_Delay-Raa2_STDM",
+    "processingInterval": 1,
+    "refId": "E",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Kalkulasjoner.Signal_Delay-Raa2_STDM",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "browseName": "Raa2 AGG7\\M01_00 MV GEN Effekt",
+    "name": "Effekt",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$Akershus Energi@#£$Stasjoner@#£$Rånåsfoss@#£$Raa2 AGG7@#£$MV@#£$M01_00 MV GEN Effekt",
+    "refId": "A",
+    "target": {
+      "identifier": 8478,
+      "namespaceIndex": 3,
+      "namespaceURI": "http://prediktor.no/apis/semantics/AkershusEnergi",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "browseName": "Raa2 AGG7\\T03_04 TE GEN Kaldluft kjøler  5",
+    "hide": false,
+    "name": "KL kjøler  5",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$Akershus Energi@#£$Stasjoner@#£$Rånåsfoss@#£$Raa2 AGG7@#£$TE@#£$T03_04 TE GEN Kaldluft kjøler  5",
+    "rawQuery": false,
+    "refId": "A",
+    "target": {
+      "identifier": 8664,
+      "namespaceIndex": 3,
+      "namespaceURI": "http://prediktor.no/apis/semantics/AkershusEnergi",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "browseName": "Raa2 STDM\\M02_06 MV OVANN Overvann",
+    "name": "Overvann",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$Akershus Energi@#£$Stasjoner@#£$Rånåsfoss@#£$Raa2 STDM@#£$MV@#£$M02_06 MV OVANN Overvann",
+    "rawQuery": false,
+    "refId": "A",
+    "target": {
+      "identifier": 12565,
+      "namespaceIndex": 3,
+      "namespaceURI": "http://prediktor.no/apis/semantics/AkershusEnergi",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "browseName": "Raa2 STDM\\M02_11 MV UVANN Undervann",
+    "hide": false,
+    "name": "Undervann",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$Akershus Energi@#£$Stasjoner@#£$Rånåsfoss@#£$Raa2 STDM@#£$MV@#£$M02_11 MV UVANN Undervann",
+    "refId": "B",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": 12580,
+      "namespaceIndex": 3,
+      "namespaceURI": "http://prediktor.no/apis/semantics/AkershusEnergi",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "interpolative",
+    "aggregateName": "Interpolative",
+    "browseName": "Raa2 STDM\\M02_06 MV OVANN Overvann",
+    "name": "Overvann",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$Akershus Energi@#£$Stasjoner@#£$Rånåsfoss@#£$Raa2 STDM@#£$MV@#£$M02_06 MV OVANN Overvann",
+    "rawQuery": false,
+    "refId": "A",
+    "target": {
+      "identifier": 12565,
+      "namespaceIndex": 3,
+      "namespaceURI": "http://prediktor.no/apis/semantics/AkershusEnergi",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "browseName": "Raa2 STDM\\M02_07 MV VREG Sum vannføring aggregater",
+    "hide": false,
+    "name": "Sum aggregater",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$Akershus Energi@#£$Stasjoner@#£$Rånåsfoss@#£$Raa2 STDM@#£$MV@#£$M02_07 MV VREG Sum vannføring aggregater",
+    "rawQuery": false,
+    "refId": "H",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": 12568,
+      "namespaceIndex": 4,
+      "namespaceURI": "http://prediktor.no/apis/semantics/AkershusEnergi",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "interpolative",
+    "aggregateName": "Interpolative",
+    "browseName": "KLOS AGG2\\C01_00 TL GEN MW+",
+    "name": " GEN MW+",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$Akershus Energi@#£$Stasjoner@#£$Klosterfoss@#£$KLOS AGG2@#£$CO@#£$C01_00 TL GEN MW+",
+    "processingInterval": null,
+    "refId": "A",
+    "target": {
+      "identifier": 1887,
+      "namespaceIndex": 6,
+      "namespaceURI": "http://prediktor.no/Klosterfoss",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "browseName": "ApisHive\\M01_11 MV VREG Klappeluke 2 vannføring",
+    "name": "Klappeluke 2 vannføring",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$BING_STDM@#£$M01_11 MV VREG Klappeluke 2 vannføring",
+    "rawQuery": false,
+    "refId": "C",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|BING_STDM.M01_11 MV VREG Klappeluke 2 vannføring",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "interpolative",
+    "aggregateName": "Interpolative",
+    "browseName": "ApisHive\\M01_03 MV VREG Overvann børverdi",
+    "hide": false,
+    "name": "Overvann børverdi [m.o.h]",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$BING_STDM@#£$M01_03 MV VREG Overvann børverdi",
+    "refId": "B",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|BING_STDM.M01_03 MV VREG Overvann børverdi",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "raw",
+    "aggregateName": "Raw",
+    "browseName": "KLOS AGG1\\M01_00 MV GEN Effekt",
+    "name": "GEN Effekt",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$Akershus Energi@#£$Stasjoner@#£$Klosterfoss@#£$KLOS AGG1@#£$MV@#£$M01_00 MV GEN Effekt",
+    "rawQuery": false,
+    "refId": "A",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": 768,
+      "namespaceIndex": 7,
+      "namespaceURI": "http://prediktor.no/Klosterfoss",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "interpolative",
+    "aggregateName": "Interpolative",
+    "browseName": "ApisHive\\Signal_Delay-BING_230V MV",
+    "name": "BING_230V MV",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Kalkulasjoner@#£$Signal_Delay-BING_230V MV",
+    "processingInterval": 5,
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Kalkulasjoner.Signal_Delay-BING_230V MV",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "interpolative",
+    "aggregateName": "Interpolative",
+    "browseName": "MV\\M01_00 MV GEN Effekt",
+    "hide": false,
+    "name": "RAA AGG 1",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$Akershus Energi@#£$Systemer@#£$Aggregat@#£$MV@#£$Raa3 AGG1@#£$M01_00 MV GEN Effekt",
+    "processingInterval": 3600,
+    "refId": "A",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": 12083,
+      "namespaceIndex": 5,
+      "namespaceURI": "http://prediktor.no/apis/semantics/AkershusEnergi",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  }
+]

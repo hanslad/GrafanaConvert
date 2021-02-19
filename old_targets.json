@@ -1,0 +1,2662 @@
+[
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M01_15 MV VREG Overvann inngitt børverdi",
+    "name": "ApisHive\\M01_15 MV VREG Overvann inngitt børverdi",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M01_15 MV VREG Overvann inngitt børverdi",
+    "refId": "A",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M01_15 MV VREG Overvann inngitt børverdi",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M01_03 MV VREG Overvann børverdi",
+    "name": "ApisHive\\M01_03 MV VREG Overvann børverdi",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M01_03 MV VREG Overvann børverdi",
+    "refId": "B",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M01_03 MV VREG Overvann børverdi",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M02_06 MV OVANN Overvann",
+    "name": "ApisHive\\M02_06 MV OVANN Overvann",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M02_06 MV OVANN Overvann",
+    "refId": "C",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M02_06 MV OVANN Overvann",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M04_11 MV VREG Settpunk vannføring til fordeling",
+    "name": "ApisHive\\M04_11 MV VREG Settpunk vannføring til fordeling",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M04_11 MV VREG Settpunk vannføring til fordeling",
+    "refId": "D",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M04_11 MV VREG Settpunk vannføring til fordeling",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M02_14 MV VREG Sum vannføring (momentan)",
+    "name": "ApisHive\\M02_14 MV VREG Sum vannføring (momentan)",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M02_14 MV VREG Sum vannføring (momentan)",
+    "refId": "E",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M02_14 MV VREG Sum vannføring (momentan)",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M02_09 MV VREG Sum vannføring stasjon middel",
+    "name": "ApisHive\\M02_09 MV VREG Sum vannføring stasjon middel",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M02_09 MV VREG Sum vannføring stasjon middel",
+    "refId": "F",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M02_09 MV VREG Sum vannføring stasjon middel",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M04_12 MV VREG Estimert Tilsig",
+    "name": "ApisHive\\M04_12 MV VREG Estimert Tilsig",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M04_12 MV VREG Estimert Tilsig",
+    "refId": "G",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M04_12 MV VREG Estimert Tilsig",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M03_06 MV VREG Min slukeevne drift",
+    "name": "ApisHive\\M03_06 MV VREG Min slukeevne drift",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M03_06 MV VREG Min slukeevne drift",
+    "refId": "H",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M03_06 MV VREG Min slukeevne drift",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M03_07 MV VREG Max slukeevne drift",
+    "name": "ApisHive\\M03_07 MV VREG Max slukeevne drift",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M03_07 MV VREG Max slukeevne drift",
+    "refId": "I",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M03_07 MV VREG Max slukeevne drift",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M04_07 MV VREG Teoretisk Virk. Aggregat stopp",
+    "name": "ApisHive\\M04_07 MV VREG Teoretisk Virk. Aggregat stopp",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M04_07 MV VREG Teoretisk Virk. Aggregat stopp",
+    "refId": "J",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M04_07 MV VREG Teoretisk Virk. Aggregat stopp",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M04_08 MV VREG Teoretisk Virk. Nåværende",
+    "name": "ApisHive\\M04_08 MV VREG Teoretisk Virk. Nåværende",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M04_08 MV VREG Teoretisk Virk. Nåværende",
+    "refId": "K",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M04_08 MV VREG Teoretisk Virk. Nåværende",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M04_09 MV VREG Teoretisk Virk. Aggregat start",
+    "name": "ApisHive\\M04_09 MV VREG Teoretisk Virk. Aggregat start",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M04_09 MV VREG Teoretisk Virk. Aggregat start",
+    "refId": "L",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M04_09 MV VREG Teoretisk Virk. Aggregat start",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M04_10 MV VREG Virkningsgrad kraftverk",
+    "name": "ApisHive\\M04_10 MV VREG Virkningsgrad kraftverk",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M04_10 MV VREG Virkningsgrad kraftverk",
+    "refId": "M",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M04_10 MV VREG Virkningsgrad kraftverk",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M02_07 MV VREG Sum vannføring aggregater",
+    "name": "ApisHive\\M02_07 MV VREG Sum vannføring aggregater",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M02_07 MV VREG Sum vannføring aggregater",
+    "refId": "N",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M02_07 MV VREG Sum vannføring aggregater",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M02_08 MV VREG Sum vannføring luker",
+    "name": "ApisHive\\M02_08 MV VREG Sum vannføring luker",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M02_08 MV VREG Sum vannføring luker",
+    "refId": "O",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M02_08 MV VREG Sum vannføring luker",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M02_13 MV VREG Sum vannføring RI",
+    "name": "ApisHive\\M02_13 MV VREG Sum vannføring RI",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M02_13 MV VREG Sum vannføring RI",
+    "refId": "P",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M02_13 MV VREG Sum vannføring RI",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M02_10 MV TREG Fallhøyde",
+    "name": "ApisHive\\M02_10 MV TREG Fallhøyde",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M02_10 MV TREG Fallhøyde",
+    "refId": "Q",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M02_10 MV TREG Fallhøyde",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M02_11 MV UVANN Undervann",
+    "name": "ApisHive\\M02_11 MV UVANN Undervann",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M02_11 MV UVANN Undervann",
+    "refId": "R",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M02_11 MV UVANN Undervann",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M02_06 MV TUREG Settpunkt aktiv effekt",
+    "name": "ApisHive\\M02_06 MV TUREG Settpunkt aktiv effekt",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_AGG7@#£$M02_06 MV TUREG Settpunkt aktiv effekt",
+    "refId": "S",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_AGG7.M02_06 MV TUREG Settpunkt aktiv effekt",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG7_M01_00 MV GEN Effekt",
+    "name": "ApisHive\\AGG7_M01_00 MV GEN Effekt",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG7_M01_00 MV GEN Effekt",
+    "refId": "T",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG7_M01_00 MV GEN Effekt",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M01_10 MV VREG Agg 7 vannføring",
+    "name": "ApisHive\\M01_10 MV VREG Agg 7 vannføring",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M01_10 MV VREG Agg 7 vannføring",
+    "refId": "U",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M01_10 MV VREG Agg 7 vannføring",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M04_06 MV VREG Virkningsgrad Aggregat 7",
+    "name": "ApisHive\\M04_06 MV VREG Virkningsgrad Aggregat 7",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M04_06 MV VREG Virkningsgrad Aggregat 7",
+    "refId": "V",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M04_06 MV VREG Virkningsgrad Aggregat 7",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M02_12 MV TREG Falltap aggr.7",
+    "name": "ApisHive\\M02_12 MV TREG Falltap aggr.7",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M02_12 MV TREG Falltap aggr.7",
+    "refId": "W",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M02_12 MV TREG Falltap aggr.7",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M05_06 MV VREG Aggregat 7 Prioritet",
+    "name": "ApisHive\\M05_06 MV VREG Aggregat 7 Prioritet",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M05_06 MV VREG Aggregat 7 Prioritet",
+    "refId": "X",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M05_06 MV VREG Aggregat 7 Prioritet",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M02_00 MV TLUKE Lukestilling",
+    "name": "ApisHive\\M02_00 MV TLUKE Lukestilling",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M02_00 MV TLUKE Lukestilling",
+    "refId": "Y",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M02_00 MV TLUKE Lukestilling",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M01_11 MV VREG Tømmerluke vannføring",
+    "name": "ApisHive\\M01_11 MV VREG Tømmerluke vannføring",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M01_11 MV VREG Tømmerluke vannføring",
+    "refId": "Z",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M01_11 MV VREG Tømmerluke vannføring",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M02_04 MV VREG Tømmerluke børverdi",
+    "name": "ApisHive\\M02_04 MV VREG Tømmerluke børverdi",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M02_04 MV VREG Tømmerluke børverdi",
+    "refId": "AA",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M02_04 MV VREG Tømmerluke børverdi",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M05_07 MV VREG Tømmerluke Prioritet",
+    "name": "ApisHive\\M05_07 MV VREG Tømmerluke Prioritet",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M05_07 MV VREG Tømmerluke Prioritet",
+    "refId": "AB",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M05_07 MV VREG Tømmerluke Prioritet",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M02_01 MV VLUKE Lukestilling",
+    "name": "ApisHive\\M02_01 MV VLUKE Lukestilling",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M02_01 MV VLUKE Lukestilling",
+    "refId": "AC",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M02_01 MV VLUKE Lukestilling",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M01_12 MV VREG Valseluke vannføring",
+    "name": "ApisHive\\M01_12 MV VREG Valseluke vannføring",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M01_12 MV VREG Valseluke vannføring",
+    "refId": "AD",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M01_12 MV VREG Valseluke vannføring",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M02_05 MV VREG Valseluke børverdi",
+    "name": "ApisHive\\M02_05 MV VREG Valseluke børverdi",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M02_05 MV VREG Valseluke børverdi",
+    "refId": "AE",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M02_05 MV VREG Valseluke børverdi",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M05_08 MV VREG Valseluke Prioritet",
+    "name": "ApisHive\\M05_08 MV VREG Valseluke Prioritet",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M05_08 MV VREG Valseluke Prioritet",
+    "refId": "AF",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M05_08 MV VREG Valseluke Prioritet",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M02_03 MV SLUKE Lukestilling Vestre luke",
+    "name": "ApisHive\\M02_03 MV SLUKE Lukestilling Vestre luke",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M02_03 MV SLUKE Lukestilling Vestre luke",
+    "refId": "AG",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M02_03 MV SLUKE Lukestilling Vestre luke",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M01_13 MV VREG Sektorluke 1 vannføring",
+    "name": "ApisHive\\M01_13 MV VREG Sektorluke 1 vannføring",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M01_13 MV VREG Sektorluke 1 vannføring",
+    "refId": "AH",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M01_13 MV VREG Sektorluke 1 vannføring",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M02_02 MV SLUKE Lukestilling Østre luke",
+    "name": "ApisHive\\M02_02 MV SLUKE Lukestilling Østre luke",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M02_02 MV SLUKE Lukestilling Østre luke",
+    "refId": "AI",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M02_02 MV SLUKE Lukestilling Østre luke",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M01_14 MV VREG Sektorluke 2 vannføring",
+    "name": "ApisHive\\M01_14 MV VREG Sektorluke 2 vannføring",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M01_14 MV VREG Sektorluke 2 vannføring",
+    "refId": "AJ",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M01_14 MV VREG Sektorluke 2 vannføring",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG1_M01_00 MV GEN Effekt",
+    "name": "ApisHive\\AGG1_M01_00 MV GEN Effekt",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG1_M01_00 MV GEN Effekt",
+    "refId": "AK",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG1_M01_00 MV GEN Effekt",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG1_M01_14 MV TREG Setpkt. effekt",
+    "name": "ApisHive\\AGG1_M01_14 MV TREG Setpkt. effekt",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG1_M01_14 MV TREG Setpkt. effekt",
+    "refId": "AL",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG1_M01_14 MV TREG Setpkt. effekt",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M01_04 MV VREG Agg 1 vannføring",
+    "name": "ApisHive\\M01_04 MV VREG Agg 1 vannføring",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M01_04 MV VREG Agg 1 vannføring",
+    "refId": "AM",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M01_04 MV VREG Agg 1 vannføring",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M04_00 MV VREG Virkningsgrad Aggregat 1",
+    "name": "ApisHive\\M04_00 MV VREG Virkningsgrad Aggregat 1",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M04_00 MV VREG Virkningsgrad Aggregat 1",
+    "refId": "AN",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M04_00 MV VREG Virkningsgrad Aggregat 1",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M03_00 MV TREG Falltap Aggr.1",
+    "name": "ApisHive\\M03_00 MV TREG Falltap Aggr.1",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M03_00 MV TREG Falltap Aggr.1",
+    "refId": "AO",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M03_00 MV TREG Falltap Aggr.1",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M05_00 MV VREG Aggregat 1 Prioritet",
+    "name": "ApisHive\\M05_00 MV VREG Aggregat 1 Prioritet",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M05_00 MV VREG Aggregat 1 Prioritet",
+    "refId": "AP",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M05_00 MV VREG Aggregat 1 Prioritet",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG2_M01_14 MV TREG Setpkt. effekt",
+    "name": "ApisHive\\AGG2_M01_14 MV TREG Setpkt. effekt",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG2_M01_14 MV TREG Setpkt. effekt",
+    "refId": "AQ",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG2_M01_14 MV TREG Setpkt. effekt",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG2_M01_00 MV GEN Effekt",
+    "name": "ApisHive\\AGG2_M01_00 MV GEN Effekt",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG2_M01_00 MV GEN Effekt",
+    "refId": "AR",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG2_M01_00 MV GEN Effekt",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M01_05 MV VREG Agg 2 vannføring",
+    "name": "ApisHive\\M01_05 MV VREG Agg 2 vannføring",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M01_05 MV VREG Agg 2 vannføring",
+    "refId": "AS",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M01_05 MV VREG Agg 2 vannføring",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M04_01 MV VREG Virkningsgrad Aggregat 2",
+    "name": "ApisHive\\M04_01 MV VREG Virkningsgrad Aggregat 2",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M04_01 MV VREG Virkningsgrad Aggregat 2",
+    "refId": "AT",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M04_01 MV VREG Virkningsgrad Aggregat 2",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M03_01 MV TREG Falltap Aggr.2",
+    "name": "ApisHive\\M03_01 MV TREG Falltap Aggr.2",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M03_01 MV TREG Falltap Aggr.2",
+    "refId": "AU",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M03_01 MV TREG Falltap Aggr.2",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M05_01 MV VREG Aggregat 2 Prioritet",
+    "name": "ApisHive\\M05_01 MV VREG Aggregat 2 Prioritet",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M05_01 MV VREG Aggregat 2 Prioritet",
+    "refId": "AV",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M05_01 MV VREG Aggregat 2 Prioritet",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG3_M01_14 MV TREG Setpkt. effekt",
+    "name": "ApisHive\\AGG3_M01_14 MV TREG Setpkt. effekt",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG3_M01_14 MV TREG Setpkt. effekt",
+    "refId": "AW",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG3_M01_14 MV TREG Setpkt. effekt",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG3_M01_00 MV GEN Effekt",
+    "name": "ApisHive\\AGG3_M01_00 MV GEN Effekt",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG3_M01_00 MV GEN Effekt",
+    "refId": "AX",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG3_M01_00 MV GEN Effekt",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M01_06 MV VREG Agg 3 vannføring",
+    "name": "ApisHive\\M01_06 MV VREG Agg 3 vannføring",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M01_06 MV VREG Agg 3 vannføring",
+    "refId": "AY",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M01_06 MV VREG Agg 3 vannføring",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M04_02 MV VREG Virkningsgrad Aggregat 3",
+    "name": "ApisHive\\M04_02 MV VREG Virkningsgrad Aggregat 3",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M04_02 MV VREG Virkningsgrad Aggregat 3",
+    "refId": "AZ",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M04_02 MV VREG Virkningsgrad Aggregat 3",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M03_02 MV TREG Falltap Aggr.3",
+    "name": "ApisHive\\M03_02 MV TREG Falltap Aggr.3",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M03_02 MV TREG Falltap Aggr.3",
+    "refId": "BA",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M03_02 MV TREG Falltap Aggr.3",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M05_02 MV VREG Aggregat 3 Prioritet",
+    "name": "ApisHive\\M05_02 MV VREG Aggregat 3 Prioritet",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M05_02 MV VREG Aggregat 3 Prioritet",
+    "refId": "BB",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M05_02 MV VREG Aggregat 3 Prioritet",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG4_M01_14 MV TREG Setpkt. effekt",
+    "name": "ApisHive\\AGG4_M01_14 MV TREG Setpkt. effekt",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG4_M01_14 MV TREG Setpkt. effekt",
+    "refId": "BC",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG4_M01_14 MV TREG Setpkt. effekt",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG4_M01_00 MV GEN Effekt",
+    "name": "ApisHive\\AGG4_M01_00 MV GEN Effekt",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG4_M01_00 MV GEN Effekt",
+    "refId": "BD",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG4_M01_00 MV GEN Effekt",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M01_07 MV VREG Agg 4 vannføring",
+    "name": "ApisHive\\M01_07 MV VREG Agg 4 vannføring",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M01_07 MV VREG Agg 4 vannføring",
+    "refId": "BE",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M01_07 MV VREG Agg 4 vannføring",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M04_03 MV VREG Virkningsgrad Aggregat 4",
+    "name": "ApisHive\\M04_03 MV VREG Virkningsgrad Aggregat 4",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M04_03 MV VREG Virkningsgrad Aggregat 4",
+    "refId": "BF",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M04_03 MV VREG Virkningsgrad Aggregat 4",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M03_03 MV TREG Falltap Aggr.4",
+    "name": "ApisHive\\M03_03 MV TREG Falltap Aggr.4",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M03_03 MV TREG Falltap Aggr.4",
+    "refId": "BG",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M03_03 MV TREG Falltap Aggr.4",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M05_03 MV VREG Aggregat 4 Prioritet",
+    "name": "ApisHive\\M05_03 MV VREG Aggregat 4 Prioritet",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M05_03 MV VREG Aggregat 4 Prioritet",
+    "refId": "BH",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M05_03 MV VREG Aggregat 4 Prioritet",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG5_M01_14 MV TREG Setpkt. effekt",
+    "name": "ApisHive\\AGG5_M01_14 MV TREG Setpkt. effekt",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG5_M01_14 MV TREG Setpkt. effekt",
+    "refId": "BI",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG5_M01_14 MV TREG Setpkt. effekt",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG5_M01_00 MV GEN Effekt",
+    "name": "ApisHive\\AGG5_M01_00 MV GEN Effekt",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG5_M01_00 MV GEN Effekt",
+    "refId": "BJ",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG5_M01_00 MV GEN Effekt",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M01_08 MV VREG Agg 5 vannføring",
+    "name": "ApisHive\\M01_08 MV VREG Agg 5 vannføring",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M01_08 MV VREG Agg 5 vannføring",
+    "refId": "BK",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M01_08 MV VREG Agg 5 vannføring",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M04_04 MV VREG Virkningsgrad Aggregat 5",
+    "name": "ApisHive\\M04_04 MV VREG Virkningsgrad Aggregat 5",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M04_04 MV VREG Virkningsgrad Aggregat 5",
+    "refId": "BL",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M04_04 MV VREG Virkningsgrad Aggregat 5",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M03_04 MV TREG Falltap Aggr.5",
+    "name": "ApisHive\\M03_04 MV TREG Falltap Aggr.5",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M03_04 MV TREG Falltap Aggr.5",
+    "refId": "BM",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M03_04 MV TREG Falltap Aggr.5",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M05_04 MV VREG Aggregat 5 Prioritet",
+    "name": "ApisHive\\M05_04 MV VREG Aggregat 5 Prioritet",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M05_04 MV VREG Aggregat 5 Prioritet",
+    "refId": "BN",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M05_04 MV VREG Aggregat 5 Prioritet",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG6_M01_14 MV TREG Setpkt. effekt",
+    "name": "ApisHive\\AGG6_M01_14 MV TREG Setpkt. effekt",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG6_M01_14 MV TREG Setpkt. effekt",
+    "refId": "BO",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG6_M01_14 MV TREG Setpkt. effekt",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG6_M01_00 MV GEN Effekt",
+    "name": "ApisHive\\AGG6_M01_00 MV GEN Effekt",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG6_M01_00 MV GEN Effekt",
+    "refId": "BP",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG6_M01_00 MV GEN Effekt",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M01_09 MV VREG Agg 6 vannføring",
+    "name": "ApisHive\\M01_09 MV VREG Agg 6 vannføring",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M01_09 MV VREG Agg 6 vannføring",
+    "refId": "BQ",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M01_09 MV VREG Agg 6 vannføring",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M04_05 MV VREG Virkningsgrad Aggregat 6",
+    "name": "ApisHive\\M04_05 MV VREG Virkningsgrad Aggregat 6",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M04_05 MV VREG Virkningsgrad Aggregat 6",
+    "refId": "BR",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M04_05 MV VREG Virkningsgrad Aggregat 6",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M03_05 MV TREG Falltap Aggr.6",
+    "name": "ApisHive\\M03_05 MV TREG Falltap Aggr.6",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M03_05 MV TREG Falltap Aggr.6",
+    "refId": "BS",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M03_05 MV TREG Falltap Aggr.6",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\M05_05 MV VREG Aggregat 6 Prioritet",
+    "name": "ApisHive\\M05_05 MV VREG Aggregat 6 Prioritet",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa2_STDM@#£$M05_05 MV VREG Aggregat 6 Prioritet",
+    "refId": "BT",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa2_STDM.M05_05 MV VREG Aggregat 6 Prioritet",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D01_02 DM VREG Flomkompenseringskurve",
+    "name": "ApisHive\\STDM_D01_02 DM VREG Flomkompenseringskurve",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D01_02 DM VREG Flomkompenseringskurve",
+    "refId": "BU",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D01_02 DM VREG Flomkompenseringskurve",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D01_04 DM VREG Høst -/flomkompenseringskurve",
+    "name": "ApisHive\\STDM_D01_04 DM VREG Høst -/flomkompenseringskurve",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D01_04 DM VREG Høst -/flomkompenseringskurve",
+    "refId": "BV",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D01_04 DM VREG Høst -/flomkompenseringskurve",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D01_00 DM VREG Auto. start/stopp agg 1-6",
+    "name": "ApisHive\\STDM_D01_00 DM VREG Auto. start/stopp agg 1-6",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D01_00 DM VREG Auto. start/stopp agg 1-6",
+    "refId": "BW",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D01_00 DM VREG Auto. start/stopp agg 1-6",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D05_00 DM VREG Start anbefalt aggregat",
+    "name": "ApisHive\\STDM_D05_00 DM VREG Start anbefalt aggregat",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D05_00 DM VREG Start anbefalt aggregat",
+    "refId": "BX",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D05_00 DM VREG Start anbefalt aggregat",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D05_01 DM VREG Stopp anbefalt aggregat",
+    "name": "ApisHive\\STDM_D05_01 DM VREG Stopp anbefalt aggregat",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D05_01 DM VREG Stopp anbefalt aggregat",
+    "refId": "BY",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D05_01 DM VREG Stopp anbefalt aggregat",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D04_00 DM VREG Agg1 vannstandsregulering",
+    "name": "ApisHive\\STDM_D04_00 DM VREG Agg1 vannstandsregulering",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D04_00 DM VREG Agg1 vannstandsregulering",
+    "refId": "BZ",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D04_00 DM VREG Agg1 vannstandsregulering",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D04_02 DM VREG Agg2 vannstandsregulering",
+    "name": "ApisHive\\STDM_D04_02 DM VREG Agg2 vannstandsregulering",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D04_02 DM VREG Agg2 vannstandsregulering",
+    "refId": "CA",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D04_02 DM VREG Agg2 vannstandsregulering",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D04_04 DM VREG Agg3 vannstandsregulering",
+    "name": "ApisHive\\STDM_D04_04 DM VREG Agg3 vannstandsregulering",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D04_04 DM VREG Agg3 vannstandsregulering",
+    "refId": "CB",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D04_04 DM VREG Agg3 vannstandsregulering",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D04_06 DM VREG Agg4 vannstandsregulering",
+    "name": "ApisHive\\STDM_D04_06 DM VREG Agg4 vannstandsregulering",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D04_06 DM VREG Agg4 vannstandsregulering",
+    "refId": "CC",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D04_06 DM VREG Agg4 vannstandsregulering",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D04_08 DM VREG Agg5 vannstandsregulering",
+    "name": "ApisHive\\STDM_D04_08 DM VREG Agg5 vannstandsregulering",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D04_08 DM VREG Agg5 vannstandsregulering",
+    "refId": "CD",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D04_08 DM VREG Agg5 vannstandsregulering",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D04_10 DM VREG Agg6 vannstandsregulering",
+    "name": "ApisHive\\STDM_D04_10 DM VREG Agg6 vannstandsregulering",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D04_10 DM VREG Agg6 vannstandsregulering",
+    "refId": "CE",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D04_10 DM VREG Agg6 vannstandsregulering",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D03_14 DM VREG Vannstandsregulering",
+    "name": "ApisHive\\STDM_D03_14 DM VREG Vannstandsregulering",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D03_14 DM VREG Vannstandsregulering",
+    "refId": "CF",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D03_14 DM VREG Vannstandsregulering",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D02_00 DM VREG Tømmerluke vannst.reg",
+    "name": "ApisHive\\STDM_D02_00 DM VREG Tømmerluke vannst.reg",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D02_00 DM VREG Tømmerluke vannst.reg",
+    "refId": "CG",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D02_00 DM VREG Tømmerluke vannst.reg",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D01_14 DM VREG Valseluke vannst.reg.",
+    "name": "ApisHive\\STDM_D01_14 DM VREG Valseluke vannst.reg.",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D01_14 DM VREG Valseluke vannst.reg.",
+    "refId": "CH",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D01_14 DM VREG Valseluke vannst.reg.",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D05_02 DM VREG Anbefalt drift Agg1",
+    "name": "ApisHive\\STDM_D05_02 DM VREG Anbefalt drift Agg1",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D05_02 DM VREG Anbefalt drift Agg1",
+    "refId": "CI",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D05_02 DM VREG Anbefalt drift Agg1",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D05_03 DM VREG Anbefalt drift Agg2",
+    "name": "ApisHive\\STDM_D05_03 DM VREG Anbefalt drift Agg2",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D05_03 DM VREG Anbefalt drift Agg2",
+    "refId": "CJ",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D05_03 DM VREG Anbefalt drift Agg2",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D05_04 DM VREG Anbefalt drift Agg3",
+    "name": "ApisHive\\STDM_D05_04 DM VREG Anbefalt drift Agg3",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D05_04 DM VREG Anbefalt drift Agg3",
+    "refId": "CK",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D05_04 DM VREG Anbefalt drift Agg3",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D05_05 DM VREG Anbefalt drift Agg4",
+    "name": "ApisHive\\STDM_D05_05 DM VREG Anbefalt drift Agg4",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D05_05 DM VREG Anbefalt drift Agg4",
+    "refId": "CL",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D05_05 DM VREG Anbefalt drift Agg4",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D05_06 DM VREG Anbefalt drift Agg5",
+    "name": "ApisHive\\STDM_D05_06 DM VREG Anbefalt drift Agg5",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D05_06 DM VREG Anbefalt drift Agg5",
+    "refId": "CM",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D05_06 DM VREG Anbefalt drift Agg5",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D05_07 DM VREG Anbefalt drift Agg6",
+    "name": "ApisHive\\STDM_D05_07 DM VREG Anbefalt drift Agg6",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D05_07 DM VREG Anbefalt drift Agg6",
+    "refId": "CN",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D05_07 DM VREG Anbefalt drift Agg6",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D05_10 DM VREG Anbefalt drift Agg7",
+    "name": "ApisHive\\STDM_D05_10 DM VREG Anbefalt drift Agg7",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D05_10 DM VREG Anbefalt drift Agg7",
+    "refId": "CO",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D05_10 DM VREG Anbefalt drift Agg7",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D02_08 DM AGG1 Revisjonsvender",
+    "name": "ApisHive\\STDM_D02_08 DM AGG1 Revisjonsvender",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D02_08 DM AGG1 Revisjonsvender",
+    "refId": "CP",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D02_08 DM AGG1 Revisjonsvender",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D02_10 DM AGG2 Revisjonsvender",
+    "name": "ApisHive\\STDM_D02_10 DM AGG2 Revisjonsvender",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D02_10 DM AGG2 Revisjonsvender",
+    "refId": "CQ",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D02_10 DM AGG2 Revisjonsvender",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D02_12 DM AGG3 Revisjonsvender",
+    "name": "ApisHive\\STDM_D02_12 DM AGG3 Revisjonsvender",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D02_12 DM AGG3 Revisjonsvender",
+    "refId": "CR",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D02_12 DM AGG3 Revisjonsvender",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D02_14 DM AGG4 Revisjonsvender",
+    "name": "ApisHive\\STDM_D02_14 DM AGG4 Revisjonsvender",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D02_14 DM AGG4 Revisjonsvender",
+    "refId": "CS",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D02_14 DM AGG4 Revisjonsvender",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D03_12 DM AGG5 Revisjonsvender",
+    "name": "ApisHive\\STDM_D03_12 DM AGG5 Revisjonsvender",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D03_12 DM AGG5 Revisjonsvender",
+    "refId": "CT",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D03_12 DM AGG5 Revisjonsvender",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D04_12 DM AGG6 Revisjonsvender",
+    "name": "ApisHive\\STDM_D04_12 DM AGG6 Revisjonsvender",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D04_12 DM AGG6 Revisjonsvender",
+    "refId": "CU",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D04_12 DM AGG6 Revisjonsvender",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D04_14 DM AGG7 Revisjonsvender",
+    "name": "ApisHive\\STDM_D04_14 DM AGG7 Revisjonsvender",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D04_14 DM AGG7 Revisjonsvender",
+    "refId": "CV",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D04_14 DM AGG7 Revisjonsvender",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D01_12 DM VREG Tømmerluke revisjon",
+    "name": "ApisHive\\STDM_D01_12 DM VREG Tømmerluke revisjon",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D01_12 DM VREG Tømmerluke revisjon",
+    "refId": "CW",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D01_12 DM VREG Tømmerluke revisjon",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D01_06 DM VREG Valseluke revisjon",
+    "name": "ApisHive\\STDM_D01_06 DM VREG Valseluke revisjon",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D01_06 DM VREG Valseluke revisjon",
+    "refId": "CX",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D01_06 DM VREG Valseluke revisjon",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D01_08 DM VREG Sektorluke vest revisjon",
+    "name": "ApisHive\\STDM_D01_08 DM VREG Sektorluke vest revisjon",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D01_08 DM VREG Sektorluke vest revisjon",
+    "refId": "CY",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D01_08 DM VREG Sektorluke vest revisjon",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D01_10 DM VREG Sektorluke øst revisjon",
+    "name": "ApisHive\\STDM_D01_10 DM VREG Sektorluke øst revisjon",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D01_10 DM VREG Sektorluke øst revisjon",
+    "refId": "CZ",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D01_10 DM VREG Sektorluke øst revisjon",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D02_04 DM TLUKE Fjernstyrings vender",
+    "name": "ApisHive\\STDM_D02_04 DM TLUKE Fjernstyrings vender",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D02_04 DM TLUKE Fjernstyrings vender",
+    "refId": "DA",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D02_04 DM TLUKE Fjernstyrings vender",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D02_06 DM VLUKE Fjernstyrings vender",
+    "name": "ApisHive\\STDM_D02_06 DM VLUKE Fjernstyrings vender",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D02_06 DM VLUKE Fjernstyrings vender",
+    "refId": "DB",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D02_06 DM VLUKE Fjernstyrings vender",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D05_13 DM VLUKE Valseluke",
+    "name": "ApisHive\\STDM_D05_13 DM VLUKE Valseluke",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D05_13 DM VLUKE Valseluke",
+    "refId": "DC",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D05_13 DM VLUKE Valseluke",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4840/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D05_12 DM VLUKE Valseluke",
+    "name": "ApisHive\\STDM_D05_12 DM VLUKE Valseluke",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D05_12 DM VLUKE Valseluke",
+    "refId": "DD",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D05_12 DM VLUKE Valseluke",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D09_00 DM SLUKE Vestre lukelem 1",
+    "name": "ApisHive\\STDM_D09_00 DM SLUKE Vestre lukelem 1",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D09_00 DM SLUKE Vestre lukelem 1",
+    "refId": "DE",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D09_00 DM SLUKE Vestre lukelem 1",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D09_02 DM SLUKE Vestre lukelem 2",
+    "name": "ApisHive\\STDM_D09_02 DM SLUKE Vestre lukelem 2",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D09_02 DM SLUKE Vestre lukelem 2",
+    "refId": "DF",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D09_02 DM SLUKE Vestre lukelem 2",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D09_04 DM SLUKE Vestre lukelem 3",
+    "name": "ApisHive\\STDM_D09_04 DM SLUKE Vestre lukelem 3",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D09_04 DM SLUKE Vestre lukelem 3",
+    "refId": "DG",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D09_04 DM SLUKE Vestre lukelem 3",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D09_06 DM SLUKE Vestre lukelem 4",
+    "name": "ApisHive\\STDM_D09_06 DM SLUKE Vestre lukelem 4",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D09_06 DM SLUKE Vestre lukelem 4",
+    "refId": "DH",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D09_06 DM SLUKE Vestre lukelem 4",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D09_08 DM SLUKE Vestre lukelem 5",
+    "name": "ApisHive\\STDM_D09_08 DM SLUKE Vestre lukelem 5",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D09_08 DM SLUKE Vestre lukelem 5",
+    "refId": "DI",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D09_08 DM SLUKE Vestre lukelem 5",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D09_10 DM SLUKE Vestre lukelem 6",
+    "name": "ApisHive\\STDM_D09_10 DM SLUKE Vestre lukelem 6",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D09_10 DM SLUKE Vestre lukelem 6",
+    "refId": "DJ",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D09_10 DM SLUKE Vestre lukelem 6",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D09_12 DM SLUKE Vestre lukelem 7",
+    "name": "ApisHive\\STDM_D09_12 DM SLUKE Vestre lukelem 7",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D09_12 DM SLUKE Vestre lukelem 7",
+    "refId": "DK",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D09_12 DM SLUKE Vestre lukelem 7",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D09_14 DM SLUKE Vestre lukelem 8",
+    "name": "ApisHive\\STDM_D09_14 DM SLUKE Vestre lukelem 8",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D09_14 DM SLUKE Vestre lukelem 8",
+    "refId": "DL",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D09_14 DM SLUKE Vestre lukelem 8",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D10_00 DM SLUKE Vestre lukelem 9",
+    "name": "ApisHive\\STDM_D10_00 DM SLUKE Vestre lukelem 9",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D10_00 DM SLUKE Vestre lukelem 9",
+    "refId": "DM",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D10_00 DM SLUKE Vestre lukelem 9",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D10_02 DM SLUKE Vestre lukelem 10",
+    "name": "ApisHive\\STDM_D10_02 DM SLUKE Vestre lukelem 10",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D10_02 DM SLUKE Vestre lukelem 10",
+    "refId": "DN",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D10_02 DM SLUKE Vestre lukelem 10",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D07_00 DM SLUKE Østre lukelem 1",
+    "name": "ApisHive\\STDM_D07_00 DM SLUKE Østre lukelem 1",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D07_00 DM SLUKE Østre lukelem 1",
+    "refId": "DO",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D07_00 DM SLUKE Østre lukelem 1",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D07_02 DM SLUKE Østre lukelem 2",
+    "name": "ApisHive\\STDM_D07_02 DM SLUKE Østre lukelem 2",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D07_02 DM SLUKE Østre lukelem 2",
+    "refId": "DP",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D07_02 DM SLUKE Østre lukelem 2",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D07_04 DM SLUKE Østre lukelem 3",
+    "name": "ApisHive\\STDM_D07_04 DM SLUKE Østre lukelem 3",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D07_04 DM SLUKE Østre lukelem 3",
+    "refId": "DQ",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D07_04 DM SLUKE Østre lukelem 3",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D07_06 DM SLUKE Østre lukelem 4",
+    "name": "ApisHive\\STDM_D07_06 DM SLUKE Østre lukelem 4",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D07_06 DM SLUKE Østre lukelem 4",
+    "refId": "DR",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D07_06 DM SLUKE Østre lukelem 4",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D07_08 DM SLUKE Østre lukelem 5",
+    "name": "ApisHive\\STDM_D07_08 DM SLUKE Østre lukelem 5",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D07_08 DM SLUKE Østre lukelem 5",
+    "refId": "DS",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D07_08 DM SLUKE Østre lukelem 5",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D07_10 DM SLUKE Østre lukelem 6",
+    "name": "ApisHive\\STDM_D07_10 DM SLUKE Østre lukelem 6",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D07_10 DM SLUKE Østre lukelem 6",
+    "refId": "DT",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D07_10 DM SLUKE Østre lukelem 6",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D07_12 DM SLUKE Østre lukelem 7",
+    "name": "ApisHive\\STDM_D07_12 DM SLUKE Østre lukelem 7",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D07_12 DM SLUKE Østre lukelem 7",
+    "refId": "DU",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D07_12 DM SLUKE Østre lukelem 7",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D07_14 DM SLUKE Østre lukelem 8",
+    "name": "ApisHive\\STDM_D07_14 DM SLUKE Østre lukelem 8",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D07_14 DM SLUKE Østre lukelem 8",
+    "refId": "DV",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D07_14 DM SLUKE Østre lukelem 8",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D08_00 DM SLUKE Østre lukelem 9",
+    "name": "ApisHive\\STDM_D08_00 DM SLUKE Østre lukelem 9",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D08_00 DM SLUKE Østre lukelem 9",
+    "refId": "DW",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D08_00 DM SLUKE Østre lukelem 9",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\STDM_D08_02 DM SLUKE Østre lukelem 10",
+    "name": "ApisHive\\STDM_D08_02 DM SLUKE Østre lukelem 10",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$STDM_D08_02 DM SLUKE Østre lukelem 10",
+    "refId": "DX",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.STDM_D08_02 DM SLUKE Østre lukelem 10",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG1_D04_08 DM VANNV Inntaksluke 1A",
+    "name": "ApisHive\\AGG1_D04_08 DM VANNV Inntaksluke 1A",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG1_D04_08 DM VANNV Inntaksluke 1A",
+    "refId": "DY",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG1_D04_08 DM VANNV Inntaksluke 1A",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG1_D04_10 DM VANNV Inntaksluke 1B",
+    "name": "ApisHive\\AGG1_D04_10 DM VANNV Inntaksluke 1B",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG1_D04_10 DM VANNV Inntaksluke 1B",
+    "refId": "DZ",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG1_D04_10 DM VANNV Inntaksluke 1B",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG2_D04_08 DM VANNV Inntaksluke 2A",
+    "name": "ApisHive\\AGG2_D04_08 DM VANNV Inntaksluke 2A",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG2_D04_08 DM VANNV Inntaksluke 2A",
+    "refId": "EA",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG2_D04_08 DM VANNV Inntaksluke 2A",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG2_D04_10 DM VANNV Inntaksluke 2B",
+    "name": "ApisHive\\AGG2_D04_10 DM VANNV Inntaksluke 2B",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG2_D04_10 DM VANNV Inntaksluke 2B",
+    "refId": "EB",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG2_D04_10 DM VANNV Inntaksluke 2B",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG3_D04_08 DM VANNV Inntaksluke 3A",
+    "name": "ApisHive\\AGG3_D04_08 DM VANNV Inntaksluke 3A",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG3_D04_08 DM VANNV Inntaksluke 3A",
+    "refId": "EC",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG3_D04_08 DM VANNV Inntaksluke 3A",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG3_D04_10 DM VANNV Inntaksluke 3B",
+    "name": "ApisHive\\AGG3_D04_10 DM VANNV Inntaksluke 3B",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG3_D04_10 DM VANNV Inntaksluke 3B",
+    "refId": "ED",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG3_D04_10 DM VANNV Inntaksluke 3B",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG4_D04_08 DM VANNV Inntaksluke 4A",
+    "name": "ApisHive\\AGG4_D04_08 DM VANNV Inntaksluke 4A",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG4_D04_08 DM VANNV Inntaksluke 4A",
+    "refId": "EE",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG4_D04_08 DM VANNV Inntaksluke 4A",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG4_D04_10 DM VANNV Inntaksluke 4B",
+    "name": "ApisHive\\AGG4_D04_10 DM VANNV Inntaksluke 4B",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG4_D04_10 DM VANNV Inntaksluke 4B",
+    "refId": "EF",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG4_D04_10 DM VANNV Inntaksluke 4B",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG5_D04_08 DM VANNV Inntaksluke 5A",
+    "name": "ApisHive\\AGG5_D04_08 DM VANNV Inntaksluke 5A",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG5_D04_08 DM VANNV Inntaksluke 5A",
+    "refId": "EG",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG5_D04_08 DM VANNV Inntaksluke 5A",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG5_D04_10 DM VANNV Inntaksluke 5B",
+    "name": "ApisHive\\AGG5_D04_10 DM VANNV Inntaksluke 5B",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG5_D04_10 DM VANNV Inntaksluke 5B",
+    "refId": "EH",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG5_D04_10 DM VANNV Inntaksluke 5B",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG6_D04_08 DM VANNV Inntaksluke 6A",
+    "name": "ApisHive\\AGG6_D04_08 DM VANNV Inntaksluke 6A",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG6_D04_08 DM VANNV Inntaksluke 6A",
+    "refId": "EI",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG6_D04_08 DM VANNV Inntaksluke 6A",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  },
+  {
+    "aggregate": "end",
+    "aggregateName": "End",
+    "browseName": "ApisHive\\AGG6_D04_10 DM VANNV Inntaksluke 6B",
+    "name": "ApisHive\\AGG6_D04_10 DM VANNV Inntaksluke 6B",
+    "nodeChain": [],
+    "path": "/Root@#£$Objects@#£$ApisHive@#£$Raa_Grafana_Items@#£$AGG6_D04_10 DM VANNV Inntaksluke 6B",
+    "refId": "EJ",
+    "renavigateNodeChain": null,
+    "target": {
+      "identifier": "V|Raa_Grafana_Items.AGG6_D04_10 DM VANNV Inntaksluke 6B",
+      "namespaceIndex": 2,
+      "namespaceURI": "urn:prediktor:IGW:ApisHive",
+      "opcUAServerURL": "opc.tcp://localhost:4860/",
+      "securityCredentials": null
+    },
+    "treeOpened": false,
+    "type": "timeserie"
+  }
+]
